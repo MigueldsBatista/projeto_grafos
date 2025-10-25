@@ -1,0 +1,9 @@
+pandas
+matplotlib
+plotly
+pyvis
+argparse
+dataclasses
+typing
+heapq
+pytest

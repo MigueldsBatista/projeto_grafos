@@ -1,0 +1,1 @@
+# test_dijkstra.py → garante caminhos corretos com pesos ≥ 0

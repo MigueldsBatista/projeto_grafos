@@ -1,0 +1,11 @@
+{
+    "bairro_mais_denso": {
+        "bairro": "alto do mandu",
+        "densidade_ego": 1.0,
+        "grau": 1
+    },
+    "bairro_maior_grau": {
+        "bairro": "casa amarela",
+        "grau": 6
+    }
+}

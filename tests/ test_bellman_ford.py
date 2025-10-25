@@ -1,0 +1,1 @@
+# test_bellman_ford.py → cobre pesos negativos e ciclos negativos
