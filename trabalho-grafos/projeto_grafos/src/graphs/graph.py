@@ -1,5 +1,5 @@
 import pandas as pd
-from typing import List, Dict, Set, Iterable
+from typing import List, Dict, Set, Iterable, Union
         
 type NomeVertice = str
 
@@ -17,10 +17,30 @@ class Vertice:
             reusltado = True
         return reusltado
     
+    def adicionar_vizinhos(self, vizinhos: List['Vertice']):
+        [self.adicionar_vizinho(vizinho) for vizinho in vizinhos]
+    
+    def remover_vizinho(self, vizinho: 'Vertice'):
+        resultado = False
+        if vizinho in self.vizinhos:
+            self.vizinhos.remove(vizinho)
+            resultado = True
+        return resultado
+    
+    def remover_vizinhos(self, vizinhos: List['Vertice']):
+        [self.remover_vizinho(vizinho) for vizinho in vizinhos]
+
+    def limpar_vizinhos(self):
+        self.vizinhos.clear()
+
     def tem_adjagencia(self, vertice: 'Vertice'):
         return vertice in self.vizinhos
+    
+    def __str__(self):
+        return self.nome
+    
 
-class Graph:
+class Grafo:
     vertices: Dict[NomeVertice, Vertice] = {}
 
     def pertence_ao_grafo(self, vertice: Vertice) -> bool:
@@ -44,30 +64,29 @@ class Graph:
             resultado = True
         return resultado
 
-    def criar_subrafo(self, vertices_para_incluir: Iterable[Vertice]) -> 'Graph':
-        subgrafo = Graph()
-        vertices = set(vertices_para_incluir)
+    def criar_subrafo(self, vertices_para_incluir: Iterable[Union[Vertice, str]]) -> 'Grafo':
+        subgrafo = Grafo()
         
-        for vertice in vertices:
-            if vertice in self.nodes_attr:
-                subgrafo.add_node(vertice, self.nodes_attr[vertice])
-        
-       
-        # for node in node_set:
-        #     if node in self.nodes_attr:
-        #         subgraph.add_node(node, self.nodes_attr[node])
-        
-       
-        # for u in subgraph.adj:
-           
-        #     if u in self.adj:
-        #         for v in self.adj[u]:
-                    
-        #             if v in subgraph.adj:
-        #                 subgraph.add_edge(u, v)
-        
-        # return subgraph
-        
+        nomes_vertices_incluidos = {str(v) for v in vertices_para_incluir}
+
+        for nome in nomes_vertices_incluidos:
+            subgrafo.adicionar_vertice(Vertice(nome))
+
+        for nome in nomes_vertices_incluidos:
+            vertice_original = self.vertices.get(nome)
+            
+            if not vertice_original:
+                continue
+
+            for vertice_vizinho in vertice_original.vizinhos:
+                if vertice_vizinho.nome in nomes_vertices_incluidos:
+                    subgrafo.adicionar_aresta(
+                        subgrafo.vertices.get(nome),
+                        subgrafo.vertices.get(vertice_vizinho.nome)
+                    )
+
+        return subgrafo
+
     @property
     def ordem(self) -> int:
         return len(self.adj)
@@ -83,14 +102,3 @@ class Graph:
             linhas.append(f"{key}: {vizinhos}")
         return "\n".join(linhas)
 
-
-def load_from_csv(self, nodes_path: str, edges_path: str):
-    
-    nodes_df = pd.read_csv(nodes_path)
-    for _, row in nodes_df.iterrows():
-        self.add_node(row['bairro'], {'microrregiao': str(row['microrregiao'])})
-
-    
-    edges_df = pd.read_csv(edges_path)
-    for _, row in edges_df.iterrows():
-        self.add_edge(row['bairro_origem'], row['bairro_destino'])

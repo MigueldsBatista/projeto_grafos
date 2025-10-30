@@ -1,0 +1,495 @@
+name,neighbor
+Aflitos,Rosarinho
+Aflitos,Encruzilhada
+Aflitos,Espinheiro
+Aflitos,Graças
+Jaqueira,Tamarineira
+Jaqueira,Graças
+Jaqueira,Torre
+Jaqueira,Santana
+Jaqueira,Parnamirim
+Hipódromo,Ponto de Parada
+Hipódromo,Encruzilhada
+Hipódromo,Campo Grande
+Ponto de Parada,Hipódromo
+Ponto de Parada,Rosarinho
+Ponto de Parada,Encruzilhada
+Ponto de Parada,Arruda
+Ponto de Parada,Campo Grande
+Rosarinho,Aflitos
+Rosarinho,Ponto de Parada
+Rosarinho,Tamarineira
+Rosarinho,Encruzilhada
+Rosarinho,Graças
+Rosarinho,Arruda
+Tamarineira,Jaqueira
+Tamarineira,Rosarinho
+Tamarineira,Graças
+Tamarineira,Arruda
+Tamarineira,Casa Amarela
+Tamarineira,Parnamirim
+Tamarineira,Mangabeira
+Encruzilhada,Aflitos
+Encruzilhada,Hipódromo
+Encruzilhada,Ponto de Parada
+Encruzilhada,Rosarinho
+Encruzilhada,Espinheiro
+Encruzilhada,Graças
+Encruzilhada,Torreão
+Encruzilhada,Campo Grande
+Espinheiro,Aflitos
+Espinheiro,Encruzilhada
+Espinheiro,Graças
+Espinheiro,Torreão
+Espinheiro,Santo Amaro
+Espinheiro,Boa Vista
+Graças,Aflitos
+Graças,Jaqueira
+Graças,Rosarinho
+Graças,Tamarineira
+Graças,Encruzilhada
+Graças,Espinheiro
+Graças,Boa Vista
+Graças,Derby
+Graças,Madalena
+Graças,Torre
+Torreão,Encruzilhada
+Torreão,Espinheiro
+Torreão,Santo Amaro
+Torreão,Campo Grande
+Joana Bezerra,Coelhos
+Joana Bezerra,Ilha do Leite
+Joana Bezerra,Paissandu
+Joana Bezerra,Afogados
+Joana Bezerra,Ilha do Retiro
+Bairro do Recife,Santo Amaro
+Bairro do Recife,Santo Antônio
+Bairro do Recife,Campo Grande
+Santo Amaro,Espinheiro
+Santo Amaro,Torreão
+Santo Amaro,Bairro do Recife
+Santo Amaro,Boa Vista
+Santo Amaro,Santo Antônio
+Santo Amaro,Soledade
+Santo Amaro,Campo Grande
+Boa Vista,Espinheiro
+Boa Vista,Graças
+Boa Vista,Santo Amaro
+Boa Vista,Coelhos
+Boa Vista,Derby
+Boa Vista,Ilha do Leite
+Boa Vista,Paissandu
+Boa Vista,Santo Antônio
+Boa Vista,Soledade
+Coelhos,Joana Bezerra
+Coelhos,Boa Vista
+Coelhos,Ilha do Leite
+Coelhos,Santo Antônio
+Derby,Graças
+Derby,Boa Vista
+Derby,Paissandu
+Derby,Ilha do Retiro
+Derby,Madalena
+Ilha do Leite,Joana Bezerra
+Ilha do Leite,Boa Vista
+Ilha do Leite,Coelhos
+Ilha do Leite,Paissandu
+Paissandu,Joana Bezerra
+Paissandu,Boa Vista
+Paissandu,Derby
+Paissandu,Ilha do Leite
+Paissandu,Ilha do Retiro
+Paissandu,Madalena
+Santo Antônio,Bairro do Recife
+Santo Antônio,Santo Amaro
+Santo Antônio,Boa Vista
+Santo Antônio,Coelhos
+Soledade,Santo Amaro
+Soledade,Boa Vista
+Afogados,Joana Bezerra
+Afogados,Bongi
+Afogados,Ilha do Retiro
+Afogados,Mangueira
+Afogados,Mustardinha
+Afogados,Prado
+Afogados,Pina
+Afogados,Imbiribeira
+Afogados,Jiquiá
+Bongi,Afogados
+Bongi,Mustardinha
+Bongi,Prado
+Bongi,San Martin
+Brasília Teimosa,Pina
+Ilha do Retiro,Joana Bezerra
+Ilha do Retiro,Derby
+Ilha do Retiro,Paissandu
+Ilha do Retiro,Afogados
+Ilha do Retiro,Prado
+Ilha do Retiro,Madalena
+Mangueira,Afogados
+Mangueira,Mustardinha
+Mangueira,Jiquiá
+Mangueira,San Martin
+Mustardinha,Afogados
+Mustardinha,Bongi
+Mustardinha,Mangueira
+Mustardinha,San Martin
+Prado,Afogados
+Prado,Bongi
+Prado,Ilha do Retiro
+Prado,San Martin
+Prado,Cordeiro
+Prado,Madalena
+Prado,Zumbi
+Boa Viagem,Jordão
+Boa Viagem,Pina
+Boa Viagem,Ibura
+Boa Viagem,Imbiribeira
+Cohab,Jordão
+Cohab,Barro
+Cohab,Ibura
+Jordão,Boa Viagem
+Jordão,Cohab
+Jordão,Ibura
+Pina,Afogados
+Pina,Brasília Teimosa
+Pina,Boa Viagem
+Pina,Imbiribeira
+Barro,Cohab
+Barro,Tejipió
+Barro,Areias
+Barro,Ibura
+Barro,Jardim São Paulo
+Coqueiral,Sancho
+Coqueiral,Tejipió
+Coqueiral,Totó
+Sancho,Coqueiral
+Sancho,Tejipió
+Sancho,Totó
+Sancho,Curado
+Tejipió,Barro
+Tejipió,Coqueiral
+Tejipió,Sancho
+Tejipió,Jardim São Paulo
+Tejipió,Curado
+Totó,Coqueiral
+Totó,Sancho
+Totó,Curado
+Caçote,Areias
+Caçote,Ibura
+Caçote,Ipsep
+Areias,Barro
+Areias,Caçote
+Areias,Ibura
+Areias,Imbiribeira
+Areias,Ipsep
+Areias,Estância
+Areias,Jardim São Paulo
+Areias,Jiquiá
+Ibura,Boa Viagem
+Ibura,Cohab
+Ibura,Jordão
+Ibura,Barro
+Ibura,Caçote
+Ibura,Areias
+Ibura,Imbiribeira
+Ibura,Ipsep
+Imbiribeira,Afogados
+Imbiribeira,Boa Viagem
+Imbiribeira,Pina
+Imbiribeira,Areias
+Imbiribeira,Ibura
+Imbiribeira,Ipsep
+Imbiribeira,Jiquiá
+Ipsep,Caçote
+Ipsep,Areias
+Ipsep,Ibura
+Ipsep,Imbiribeira
+Estância,Areias
+Estância,Jardim São Paulo
+Estância,Jiquiá
+Estância,San Martin
+Jardim São Paulo,Barro
+Jardim São Paulo,Tejipió
+Jardim São Paulo,Areias
+Jardim São Paulo,Estância
+Jardim São Paulo,Jiquiá
+Jardim São Paulo,San Martin
+Jardim São Paulo,Curado
+Jiquiá,Afogados
+Jiquiá,Mangueira
+Jiquiá,Areias
+Jiquiá,Imbiribeira
+Jiquiá,Estância
+Jiquiá,Jardim São Paulo
+Jiquiá,San Martin
+San Martin,Bongi
+San Martin,Mangueira
+San Martin,Mustardinha
+San Martin,Prado
+San Martin,Estância
+San Martin,Jardim São Paulo
+San Martin,Jiquiá
+San Martin,Curado
+San Martin,Torrões
+San Martin,Cordeiro
+Curado,Sancho
+Curado,Tejipió
+Curado,Totó
+Curado,Jardim São Paulo
+Curado,San Martin
+Curado,Cidade Universitária
+Curado,Engenho do Meio
+Curado,Torrões
+Curado,Várzea
+Cidade Universitária,Curado
+Cidade Universitária,Engenho do Meio
+Cidade Universitária,Várzea
+Cidade Universitária,Iputinga
+Engenho do Meio,Curado
+Engenho do Meio,Cidade Universitária
+Engenho do Meio,Torrões
+Engenho do Meio,Cordeiro
+Engenho do Meio,Iputinga
+Torrões,San Martin
+Torrões,Curado
+Torrões,Engenho do Meio
+Torrões,Cordeiro
+Caxangá,Várzea
+Caxangá,Iputinga
+Caxangá,Apipucos
+Caxangá,Dois Irmãos
+Caxangá,Sítio dos Pintos
+Várzea,Curado
+Várzea,Cidade Universitária
+Várzea,Caxangá
+Várzea,Iputinga
+Arruda,Ponto de Parada
+Arruda,Rosarinho
+Arruda,Tamarineira
+Arruda,Campo Grande
+Arruda,Peixinhos
+Arruda,Bomba do Hemetério
+Arruda,Campina do Barreto
+Arruda,Mangabeira
+Arruda,Água Fria
+Campo Grande,Hipódromo
+Campo Grande,Ponto de Parada
+Campo Grande,Encruzilhada
+Campo Grande,Torreão
+Campo Grande,Bairro do Recife
+Campo Grande,Santo Amaro
+Campo Grande,Arruda
+Campo Grande,Peixinhos
+Peixinhos,Arruda
+Peixinhos,Campo Grande
+Peixinhos,Campina do Barreto
+Cordeiro,Prado
+Cordeiro,San Martin
+Cordeiro,Engenho do Meio
+Cordeiro,Torrões
+Cordeiro,Torre
+Cordeiro,Zumbi
+Cordeiro,Santana
+Cordeiro,Iputinga
+Cordeiro,Poço da Panela
+Madalena,Graças
+Madalena,Derby
+Madalena,Paissandu
+Madalena,Ilha do Retiro
+Madalena,Prado
+Madalena,Torre
+Madalena,Zumbi
+Torre,Jaqueira
+Torre,Graças
+Torre,Cordeiro
+Torre,Madalena
+Torre,Zumbi
+Torre,Santana
+Zumbi,Prado
+Zumbi,Cordeiro
+Zumbi,Madalena
+Zumbi,Torre
+Santana,Jaqueira
+Santana,Cordeiro
+Santana,Torre
+Santana,Casa Forte
+Santana,Parnamirim
+Santana,Poço da Panela
+Alto José do Pinho,Casa Amarela
+Alto José do Pinho,Morro da Conceição
+Alto José do Pinho,Bomba do Hemetério
+Alto José do Pinho,Mangabeira
+Alto José do Pinho,Alto Santa Teresinha
+Alto José do Pinho,Alto José Bonifácio
+Alto do Mandu,Casa Amarela
+Alto do Mandu,Monteiro
+Alto do Mandu,Macaxeira
+Alto do Mandu,Nova Descoberta
+Alto do Mandu,Apipucos
+Casa Amarela,Tamarineira
+Casa Amarela,Alto José do Pinho
+Casa Amarela,Alto do Mandu
+Casa Amarela,Casa Forte
+Casa Amarela,Monteiro
+Casa Amarela,Morro da Conceição
+Casa Amarela,Parnamirim
+Casa Amarela,Poço da Panela
+Casa Amarela,Mangabeira
+Casa Amarela,Nova Descoberta
+Casa Amarela,Vasco da Gama
+Casa Forte,Santana
+Casa Forte,Casa Amarela
+Casa Forte,Parnamirim
+Casa Forte,Poço da Panela
+Iputinga,Cidade Universitária
+Iputinga,Engenho do Meio
+Iputinga,Caxangá
+Iputinga,Várzea
+Iputinga,Cordeiro
+Iputinga,Monteiro
+Iputinga,Poço da Panela
+Iputinga,Apipucos
+Monteiro,Alto do Mandu
+Monteiro,Casa Amarela
+Monteiro,Iputinga
+Monteiro,Poço da Panela
+Monteiro,Apipucos
+Morro da Conceição,Alto José do Pinho
+Morro da Conceição,Casa Amarela
+Morro da Conceição,Alto José Bonifácio
+Morro da Conceição,Vasco da Gama
+Parnamirim,Jaqueira
+Parnamirim,Tamarineira
+Parnamirim,Santana
+Parnamirim,Casa Amarela
+Parnamirim,Casa Forte
+Poço da Panela,Cordeiro
+Poço da Panela,Santana
+Poço da Panela,Casa Amarela
+Poço da Panela,Casa Forte
+Poço da Panela,Iputinga
+Poço da Panela,Monteiro
+Beberibe,Linha do Tiro
+Beberibe,Porto da Madeira
+Beberibe,Água Fria
+Beberibe,Dois Unidos
+Bomba do Hemetério,Arruda
+Bomba do Hemetério,Alto José do Pinho
+Bomba do Hemetério,Mangabeira
+Bomba do Hemetério,Alto Santa Teresinha
+Bomba do Hemetério,Água Fria
+Cajueiro,Campina do Barreto
+Cajueiro,Fundão
+Cajueiro,Porto da Madeira
+Campina do Barreto,Arruda
+Campina do Barreto,Peixinhos
+Campina do Barreto,Cajueiro
+Campina do Barreto,Fundão
+Campina do Barreto,Água Fria
+Fundão,Cajueiro
+Fundão,Campina do Barreto
+Fundão,Porto da Madeira
+Fundão,Água Fria
+Linha do Tiro,Beberibe
+Linha do Tiro,Alto Santa Teresinha
+Linha do Tiro,Água Fria
+Linha do Tiro,Alto José Bonifácio
+Linha do Tiro,Brejo de Beberibe
+Linha do Tiro,Dois Unidos
+Mangabeira,Tamarineira
+Mangabeira,Arruda
+Mangabeira,Alto José do Pinho
+Mangabeira,Casa Amarela
+Mangabeira,Bomba do Hemetério
+Porto da Madeira,Beberibe
+Porto da Madeira,Cajueiro
+Porto da Madeira,Fundão
+Porto da Madeira,Água Fria
+Alto Santa Teresinha,Alto José do Pinho
+Alto Santa Teresinha,Bomba do Hemetério
+Alto Santa Teresinha,Linha do Tiro
+Alto Santa Teresinha,Água Fria
+Alto Santa Teresinha,Alto José Bonifácio
+Água Fria,Arruda
+Água Fria,Beberibe
+Água Fria,Bomba do Hemetério
+Água Fria,Campina do Barreto
+Água Fria,Fundão
+Água Fria,Linha do Tiro
+Água Fria,Porto da Madeira
+Água Fria,Alto Santa Teresinha
+Alto José Bonifácio,Alto José do Pinho
+Alto José Bonifácio,Morro da Conceição
+Alto José Bonifácio,Linha do Tiro
+Alto José Bonifácio,Alto Santa Teresinha
+Alto José Bonifácio,Vasco da Gama
+Alto José Bonifácio,Brejo de Beberibe
+Córrego do Jenipapo,Macaxeira
+Córrego do Jenipapo,Nova Descoberta
+Córrego do Jenipapo,Apipucos
+Córrego do Jenipapo,Dois Irmãos
+Córrego do Jenipapo,Brejo da Guabiraba
+Córrego do Jenipapo,Guabiraba
+Macaxeira,Alto do Mandu
+Macaxeira,Córrego do Jenipapo
+Macaxeira,Nova Descoberta
+Macaxeira,Apipucos
+Nova Descoberta,Alto do Mandu
+Nova Descoberta,Casa Amarela
+Nova Descoberta,Córrego do Jenipapo
+Nova Descoberta,Macaxeira
+Nova Descoberta,Vasco da Gama
+Nova Descoberta,Brejo da Guabiraba
+Nova Descoberta,Brejo de Beberibe
+Vasco da Gama,Casa Amarela
+Vasco da Gama,Morro da Conceição
+Vasco da Gama,Alto José Bonifácio
+Vasco da Gama,Nova Descoberta
+Vasco da Gama,Brejo de Beberibe
+Apipucos,Caxangá
+Apipucos,Alto do Mandu
+Apipucos,Iputinga
+Apipucos,Monteiro
+Apipucos,Córrego do Jenipapo
+Apipucos,Macaxeira
+Apipucos,Dois Irmãos
+Dois Irmãos,Caxangá
+Dois Irmãos,Córrego do Jenipapo
+Dois Irmãos,Apipucos
+Dois Irmãos,Sítio dos Pintos
+Dois Irmãos,Guabiraba
+Sítio dos Pintos,Caxangá
+Sítio dos Pintos,Dois Irmãos
+Sítio dos Pintos,Guabiraba
+Brejo da Guabiraba,Córrego do Jenipapo
+Brejo da Guabiraba,Nova Descoberta
+Brejo da Guabiraba,Brejo de Beberibe
+Brejo da Guabiraba,Passarinho
+Brejo da Guabiraba,Guabiraba
+Brejo de Beberibe,Linha do Tiro
+Brejo de Beberibe,Alto José Bonifácio
+Brejo de Beberibe,Nova Descoberta
+Brejo de Beberibe,Vasco da Gama
+Brejo de Beberibe,Brejo da Guabiraba
+Brejo de Beberibe,Dois Unidos
+Brejo de Beberibe,Passarinho
+Dois Unidos,Beberibe
+Dois Unidos,Linha do Tiro
+Dois Unidos,Brejo de Beberibe
+Dois Unidos,Passarinho
+Passarinho,Brejo da Guabiraba
+Passarinho,Brejo de Beberibe
+Passarinho,Dois Unidos
+Passarinho,Guabiraba
+Guabiraba,Córrego do Jenipapo
+Guabiraba,Dois Irmãos
+Guabiraba,Sítio dos Pintos
+Guabiraba,Brejo da Guabiraba
+Guabiraba,Passarinho
+Guabiraba,Pau-Ferro
+Pau-Ferro,Guabiraba
+Pau-Ferro,Aldeia
+Aldeia,Pau-Ferro
+Aldeia,Oitenta
+Oitenta,Aldeia
