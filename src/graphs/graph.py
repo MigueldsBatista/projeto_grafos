@@ -101,3 +101,6 @@ class Grafo:
             vizinhos = [v.nome for v in self.vertices[key].vizinhos]
             linhas.append(f"{key}: {vizinhos}")
         return "\n".join(linhas)
+
+
+# TODO - Adicionar  a densidade do grafo

@@ -1,0 +1,495 @@
+Bairro,Vizinho,Logradouro,Tipo
+Aflitos,Rosarinho,Rua Manuel de Carvalho,tertiary
+Aflitos,Encruzilhada,Rua Manuel de Carvalho,tertiary
+Aflitos,Espinheiro,Rua Manuel de Carvalho,tertiary
+Aflitos,Graças,Rua Manuel de Carvalho,tertiary
+Jaqueira,Tamarineira,Rua Neto de Mendonça,tertiary
+Jaqueira,Graças,Rua Neto de Mendonça,tertiary
+Jaqueira,Torre,Rua Neto de Mendonça,tertiary
+Jaqueira,Santana,Rua Neto de Mendonça,tertiary
+Jaqueira,Parnamirim,Rua Neto de Mendonça,tertiary
+Hipódromo,Ponto de Parada,Rua Fonseca Oliveira,residential
+Hipódromo,Encruzilhada,Rua Carlos Fernandes,tertiary
+Hipódromo,Campo Grande,Rua Carlos Fernandes,tertiary
+Ponto de Parada,Hipódromo,Rua Couto Magalhães,tertiary
+Ponto de Parada,Rosarinho,Rua Couto Magalhães,tertiary
+Ponto de Parada,Encruzilhada,Rua Couto Magalhães,tertiary
+Ponto de Parada,Arruda,Rua Couto Magalhães,tertiary
+Ponto de Parada,Campo Grande,Rua Couto Magalhães,tertiary
+Rosarinho,Aflitos,Rua Regueira Costa,tertiary
+Rosarinho,Ponto de Parada,Rua Regueira Costa,tertiary
+Rosarinho,Tamarineira,Rua Regueira Costa,tertiary
+Rosarinho,Encruzilhada,Rua Regueira Costa,tertiary
+Rosarinho,Graças,Rua Regueira Costa,tertiary
+Rosarinho,Arruda,Rua Regueira Costa,tertiary
+Tamarineira,Jaqueira,Rua Cônego Barata,primary_link
+Tamarineira,Rosarinho,Rua Cônego Barata,primary
+Tamarineira,Graças,Rua Cônego Barata,primary_link
+Tamarineira,Arruda,Rua Cônego Barata,primary
+Tamarineira,Casa Amarela,Rua Cônego Barata,primary_link
+Tamarineira,Parnamirim,Rua Cônego Barata,primary_link
+Tamarineira,Mangabeira,Rua Cônego Barata,primary
+Encruzilhada,Aflitos,"['Avenida Beberibe', 'Avenida João de Barros']",primary
+Encruzilhada,Hipódromo,Avenida Beberibe,primary
+Encruzilhada,Ponto de Parada,Avenida Beberibe,primary
+Encruzilhada,Rosarinho,Avenida Beberibe,primary
+Encruzilhada,Espinheiro,"['Avenida Beberibe', 'Avenida João de Barros']",primary
+Encruzilhada,Graças,"['Avenida Beberibe', 'Avenida João de Barros']",primary
+Encruzilhada,Torreão,Avenida Beberibe,primary
+Encruzilhada,Campo Grande,Avenida Beberibe,primary
+Espinheiro,Aflitos,Avenida João de Barros,secondary
+Espinheiro,Encruzilhada,Avenida João de Barros,secondary
+Espinheiro,Graças,Avenida João de Barros,secondary
+Espinheiro,Torreão,Rua Marquês do Paraná,residential
+Espinheiro,Santo Amaro,Avenida João de Barros,secondary
+Espinheiro,Boa Vista,Avenida João de Barros,secondary
+Graças,Aflitos,Rua Amélia,secondary
+Graças,Jaqueira,Rua Amélia,secondary
+Graças,Rosarinho,Rua Amélia,secondary
+Graças,Tamarineira,Rua Amélia,secondary
+Graças,Encruzilhada,Rua Amélia,secondary
+Graças,Espinheiro,Rua Amélia,secondary
+Graças,Boa Vista,Rua Amélia,secondary
+Graças,Derby,Rua Amélia,secondary
+Graças,Madalena,Rua Amélia,secondary
+Graças,Torre,Rua Amélia,secondary
+Torreão,Encruzilhada,Rua Cândido Lacerda,residential
+Torreão,Espinheiro,Rua Cândido Lacerda,residential
+Torreão,Santo Amaro,Rua Othon Paraíso,residential
+Torreão,Campo Grande,Rua Cândido Lacerda,residential
+Joana Bezerra,Coelhos,Rua Braço do Norte,residential
+Joana Bezerra,Ilha do Leite,Rua Braço do Norte,residential
+Joana Bezerra,Paissandu,Rua Braço do Norte,residential
+Joana Bezerra,Afogados,Rua Braço do Norte,residential
+Joana Bezerra,Ilha do Retiro,Rua Braço do Norte,residential
+Bairro do Recife,Santo Amaro,Rua Álvares Cabral,residential
+Bairro do Recife,Santo Antônio,Rua Álvares Cabral,residential
+Bairro do Recife,Campo Grande,Rua Álvares Cabral,residential
+Santo Amaro,Espinheiro,Rua Coelho Leite,residential
+Santo Amaro,Torreão,Avenida da Saudade,tertiary
+Santo Amaro,Bairro do Recife,Avenida da Saudade,tertiary
+Santo Amaro,Boa Vista,Avenida da Saudade,tertiary
+Santo Amaro,Santo Antônio,Avenida da Saudade,tertiary
+Santo Amaro,Soledade,Rua Coelho Leite,residential
+Santo Amaro,Campo Grande,Avenida da Saudade,tertiary
+Boa Vista,Espinheiro,Rua Rosário da Boa Vista,residential
+Boa Vista,Graças,Rua Rosário da Boa Vista,residential
+Boa Vista,Santo Amaro,Rua Rosário da Boa Vista,residential
+Boa Vista,Coelhos,Rua Rosário da Boa Vista,residential
+Boa Vista,Derby,Rua Rosário da Boa Vista,residential
+Boa Vista,Ilha do Leite,Rua Rosário da Boa Vista,residential
+Boa Vista,Paissandu,Rua Rosário da Boa Vista,residential
+Boa Vista,Santo Antônio,Rua Rosário da Boa Vista,residential
+Boa Vista,Soledade,Rua Rosário da Boa Vista,residential
+Coelhos,Joana Bezerra,Rua Júlio Bernardo,residential
+Coelhos,Boa Vista,Rua Júlio Bernardo,residential
+Coelhos,Ilha do Leite,Rua Júlio Bernardo,residential
+Coelhos,Santo Antônio,Rua Júlio Bernardo,residential
+Derby,Graças,Rua Barão de Goiana,tertiary
+Derby,Boa Vista,Rua Barão de Goiana,tertiary
+Derby,Paissandu,Rua Barão de Goiana,tertiary
+Derby,Ilha do Retiro,Rua Barão de Goiana,tertiary
+Derby,Madalena,Rua Barão de Goiana,tertiary
+Ilha do Leite,Joana Bezerra,Rua Estado de Israel,tertiary
+Ilha do Leite,Boa Vista,Rua Marquês Amorim,residential
+Ilha do Leite,Coelhos,Rua Marquês Amorim,residential
+Ilha do Leite,Paissandu,Rua Estado de Israel,tertiary
+Paissandu,Joana Bezerra,Avenida Portugal,residential
+Paissandu,Boa Vista,Avenida Portugal,residential
+Paissandu,Derby,Avenida Portugal,residential
+Paissandu,Ilha do Leite,Avenida Portugal,residential
+Paissandu,Ilha do Retiro,Avenida Portugal,residential
+Paissandu,Madalena,Avenida Portugal,residential
+Santo Antônio,Bairro do Recife,Rua Diário de Pernambuco,residential
+Santo Antônio,Santo Amaro,Avenida Guararapes,secondary
+Santo Antônio,Boa Vista,Avenida Guararapes,secondary
+Santo Antônio,Coelhos,Avenida Guararapes,secondary
+Soledade,Santo Amaro,Avenida Oliveira Lima,tertiary
+Soledade,Boa Vista,Avenida Oliveira Lima,tertiary
+Afogados,Joana Bezerra,Rua Ursulino Pinto de Carvalho,residential
+Afogados,Bongi,Rua Doutor Adelino,secondary
+Afogados,Ilha do Retiro,Rua Ursulino Pinto de Carvalho,residential
+Afogados,Mangueira,Rua Doutor Adelino,secondary
+Afogados,Mustardinha,Rua Doutor Adelino,secondary
+Afogados,Prado,Rua Ursulino Pinto de Carvalho,residential
+Afogados,Pina,Rua Ursulino Pinto de Carvalho,residential
+Afogados,Imbiribeira,Rua Ursulino Pinto de Carvalho,residential
+Afogados,Jiquiá,Rua Ursulino Pinto de Carvalho,residential
+Bongi,Afogados,Rua Randolfo Pinto Ferreira,residential
+Bongi,Mustardinha,Rua Randolfo Pinto Ferreira,residential
+Bongi,Prado,Rua Pio Muniz de Farias,residential
+Bongi,San Martin,Rua Randolfo Pinto Ferreira,residential
+Brasília Teimosa,Pina,Rua Atum,residential
+Ilha do Retiro,Joana Bezerra,Rua João Elísio Ramos,secondary
+Ilha do Retiro,Derby,Rua João Elísio Ramos,secondary
+Ilha do Retiro,Paissandu,Rua João Elísio Ramos,secondary
+Ilha do Retiro,Afogados,"['Rua João Elísio Ramos', 'Rua Tabaiares']",secondary
+Ilha do Retiro,Prado,Rua João Elísio Ramos,secondary
+Ilha do Retiro,Madalena,Rua João Elísio Ramos,secondary
+Mangueira,Afogados,Rua Bernadete Xavier Gomes,residential
+Mangueira,Mustardinha,Rua Benício Dias,residential
+Mangueira,Jiquiá,Rua Benício Dias,residential
+Mangueira,San Martin,Rua Benício Dias,residential
+Mustardinha,Afogados,Rua Grão Mogol,residential
+Mustardinha,Bongi,Rua Francisca Benigna Cavalcanti,residential
+Mustardinha,Mangueira,Rua Grão Mogol,residential
+Mustardinha,San Martin,Rua Francisca Benigna Cavalcanti,residential
+Prado,Afogados,Rua Carlos Gomes,secondary
+Prado,Bongi,Rua Carlos Gomes,secondary
+Prado,Ilha do Retiro,Rua Carlos Gomes,secondary
+Prado,San Martin,Rua Carlos Gomes,secondary
+Prado,Cordeiro,Rua Carlos Gomes,secondary
+Prado,Madalena,Rua Carlos Gomes,secondary
+Prado,Zumbi,Rua Carlos Gomes,secondary
+Boa Viagem,Jordão,Rua Ribeiro de Brito,primary
+Boa Viagem,Pina,Avenida Hélio Falcão,residential
+Boa Viagem,Ibura,Rua Ribeiro de Brito,primary
+Boa Viagem,Imbiribeira,Rua Ribeiro de Brito,primary
+Cohab,Jordão,"['Avenida Mato Grosso', 'Rua Jornalista Nelson Rodrigues']",residential
+Cohab,Barro,"['Avenida Mato Grosso', 'Rua Jornalista Nelson Rodrigues']",residential
+Cohab,Ibura,"['Avenida Mato Grosso', 'Rua Jornalista Nelson Rodrigues']",residential
+Jordão,Boa Viagem,Rua Junqueiro,residential
+Jordão,Cohab,Rua da Batalha,residential
+Jordão,Ibura,Rua Junqueiro,residential
+Pina,Afogados,"['Rua Manoel de Brito', 'Via Mangue - Pista Leste']",primary
+Pina,Brasília Teimosa,"['Rua Manoel de Brito', 'Via Mangue - Pista Leste']",primary
+Pina,Boa Viagem,"['Rua Manoel de Brito', 'Via Mangue - Pista Leste']",primary
+Pina,Imbiribeira,"['Rua Manoel de Brito', 'Via Mangue - Pista Leste']",primary
+Barro,Cohab,Avenida Doutor José Rufino,primary
+Barro,Tejipió,Avenida Doutor José Rufino,primary
+Barro,Areias,Avenida Doutor José Rufino,primary
+Barro,Ibura,Avenida Doutor José Rufino,primary
+Barro,Jardim São Paulo,Avenida Doutor José Rufino,primary
+Coqueiral,Sancho,Rua Doutor José Cornélio,tertiary
+Coqueiral,Tejipió,Rua Quinze de Novembro,tertiary
+Coqueiral,Totó,Rua Doutor José Cornélio,tertiary
+Sancho,Coqueiral,Rua Doutor Urbano Vitalino de Melo Filho,residential
+Sancho,Tejipió,Rua Doutor Urbano Vitalino de Melo Filho,residential
+Sancho,Totó,Rua Josita Almeida,residential
+Sancho,Curado,Rua Josita Almeida,residential
+Tejipió,Barro,Avenida Doutor José Rufino,primary
+Tejipió,Coqueiral,Avenida Doutor José Rufino,primary
+Tejipió,Sancho,Avenida Doutor José Rufino,primary
+Tejipió,Jardim São Paulo,Avenida Doutor José Rufino,primary
+Tejipió,Curado,Avenida Doutor José Rufino,primary
+Totó,Coqueiral,Rua Juvêncio Marques da Cunha,tertiary
+Totó,Sancho,Rua Ana Carneiro D'Albuquerque,residential
+Totó,Curado,Rua Juvêncio Marques da Cunha,tertiary
+Caçote,Areias,Avenida Justiça e Paz,residential
+Caçote,Ibura,Avenida Justiça e Paz,residential
+Caçote,Ipsep,Avenida Justiça e Paz,residential
+Areias,Barro,Avenida Recife,primary
+Areias,Caçote,Avenida Recife,primary
+Areias,Ibura,Avenida Recife,primary
+Areias,Imbiribeira,Avenida Recife,primary
+Areias,Ipsep,Avenida Recife,primary
+Areias,Estância,Avenida Recife,primary
+Areias,Jardim São Paulo,Avenida Recife,primary
+Areias,Jiquiá,Avenida Recife,primary
+Ibura,Boa Viagem,Rua Frei Luís de Souza,residential
+Ibura,Cohab,Rua Frei Luís de Souza,residential
+Ibura,Jordão,Rua Frei Luís de Souza,residential
+Ibura,Barro,Rua Frei Luís de Souza,residential
+Ibura,Caçote,Rua Frei Luís de Souza,residential
+Ibura,Areias,Rua Frei Luís de Souza,residential
+Ibura,Imbiribeira,Rua Frei Luís de Souza,residential
+Ibura,Ipsep,Rua Frei Luís de Souza,residential
+Imbiribeira,Afogados,Avenida Marechal Mascarenhas de Moraes,trunk
+Imbiribeira,Boa Viagem,Rua Doutor Tavares Correia,tertiary
+Imbiribeira,Pina,Avenida Marechal Mascarenhas de Moraes,trunk
+Imbiribeira,Areias,Rua Doutor Tavares Correia,tertiary
+Imbiribeira,Ibura,Rua Doutor Tavares Correia,tertiary
+Imbiribeira,Ipsep,Rua Doutor Tavares Correia,tertiary
+Imbiribeira,Jiquiá,Rua Doutor Tavares Correia,tertiary
+Ipsep,Caçote,Rua Santos Cosme e Damião,residential
+Ipsep,Areias,Rua Santos Cosme e Damião,residential
+Ipsep,Ibura,Rua Santos Cosme e Damião,residential
+Ipsep,Imbiribeira,Rua Francisco Barreto,residential
+Estância,Areias,Primeira Travessa Príncipe da Beira,residential
+Estância,Jardim São Paulo,Rua Sargento Jaime Pantaleão,residential
+Estância,Jiquiá,Rua Sargento Jaime Pantaleão,residential
+Estância,San Martin,Rua Sargento Jaime Pantaleão,residential
+Jardim São Paulo,Barro,Rua Professora Zênia Guerra,residential
+Jardim São Paulo,Tejipió,Rua Professora Zênia Guerra,residential
+Jardim São Paulo,Areias,Rua Guarulhos,residential
+Jardim São Paulo,Estância,Rua Guarulhos,residential
+Jardim São Paulo,Jiquiá,Rua Guarulhos,residential
+Jardim São Paulo,San Martin,Rua Guarulhos,residential
+Jardim São Paulo,Curado,Rua Professora Zênia Guerra,residential
+Jiquiá,Afogados,Rua Manoel Lopes de Barros,residential
+Jiquiá,Mangueira,Rua Manoel Lopes de Barros,residential
+Jiquiá,Areias,Rua Manoel Lopes de Barros,residential
+Jiquiá,Imbiribeira,Rua Manoel Lopes de Barros,residential
+Jiquiá,Estância,Rua Manoel Lopes de Barros,residential
+Jiquiá,Jardim São Paulo,Rua Manoel Lopes de Barros,residential
+Jiquiá,San Martin,Rua Manoel Lopes de Barros,residential
+San Martin,Bongi,Avenida General San Martin,primary
+San Martin,Mangueira,Avenida General San Martin,primary
+San Martin,Mustardinha,Avenida General San Martin,primary
+San Martin,Prado,Avenida General San Martin,primary
+San Martin,Estância,Avenida General San Martin,primary
+San Martin,Jardim São Paulo,Avenida General San Martin,primary
+San Martin,Jiquiá,Avenida General San Martin,primary
+San Martin,Curado,Avenida General San Martin,primary
+San Martin,Torrões,Avenida General San Martin,primary
+San Martin,Cordeiro,Avenida General San Martin,primary
+Curado,Sancho,Avenida Getúlio Vargas,tertiary
+Curado,Tejipió,Avenida Getúlio Vargas,tertiary
+Curado,Totó,Avenida Getúlio Vargas,tertiary
+Curado,Jardim São Paulo,Avenida Getúlio Vargas,tertiary
+Curado,San Martin,Avenida Getúlio Vargas,tertiary
+Curado,Cidade Universitária,Avenida Getúlio Vargas,tertiary
+Curado,Engenho do Meio,Avenida Getúlio Vargas,tertiary
+Curado,Torrões,Avenida Getúlio Vargas,tertiary
+Curado,Várzea,Avenida Getúlio Vargas,tertiary
+Cidade Universitária,Curado,Avenida Jornalista Aníbal Fernandes,tertiary
+Cidade Universitária,Engenho do Meio,Avenida Jornalista Aníbal Fernandes,tertiary
+Cidade Universitária,Várzea,Avenida Jornalista Aníbal Fernandes,tertiary
+Cidade Universitária,Iputinga,Avenida Jornalista Aníbal Fernandes,tertiary
+Engenho do Meio,Curado,Rua Antônio Borges Uchoa,residential
+Engenho do Meio,Cidade Universitária,Rua Salvador Vital,residential
+Engenho do Meio,Torrões,Rua Antônio Borges Uchoa,residential
+Engenho do Meio,Cordeiro,Rua Antônio Borges Uchoa,residential
+Engenho do Meio,Iputinga,Rua Antônio Borges Uchoa,residential
+Torrões,San Martin,Rua Damasqueiro,residential
+Torrões,Curado,Rua Damasqueiro,residential
+Torrões,Engenho do Meio,Rua Engenho Terra do Dia,residential
+Torrões,Cordeiro,Rua Damasqueiro,residential
+Caxangá,Várzea,Rua Engenho Poeta,residential
+Caxangá,Iputinga,Rua Engenho Poeta,residential
+Caxangá,Apipucos,Rua Engenho Poeta,residential
+Caxangá,Dois Irmãos,Rua Engenho Poeta,residential
+Caxangá,Sítio dos Pintos,Rua Engenho Poeta,residential
+Várzea,Curado,Rua Diogo de Vasconcelos,tertiary
+Várzea,Cidade Universitária,Rua Diogo de Vasconcelos,tertiary
+Várzea,Caxangá,Rua Diogo de Vasconcelos,tertiary
+Várzea,Iputinga,Rua Diogo de Vasconcelos,tertiary
+Arruda,Ponto de Parada,Rua José Austregésilo,residential
+Arruda,Rosarinho,Rua José Austregésilo,residential
+Arruda,Tamarineira,Rua José Austregésilo,residential
+Arruda,Campo Grande,Rua José Austregésilo,residential
+Arruda,Peixinhos,Rua José Austregésilo,residential
+Arruda,Bomba do Hemetério,Rua José Austregésilo,residential
+Arruda,Campina do Barreto,Rua José Austregésilo,residential
+Arruda,Mangabeira,Rua José Austregésilo,residential
+Arruda,Água Fria,Rua José Austregésilo,residential
+Campo Grande,Hipódromo,Rua Manuel de Barros Lima,residential
+Campo Grande,Ponto de Parada,Rua Manuel de Barros Lima,residential
+Campo Grande,Encruzilhada,Rua Manuel de Barros Lima,residential
+Campo Grande,Torreão,Rua Manuel de Barros Lima,residential
+Campo Grande,Bairro do Recife,Rua Manuel de Barros Lima,residential
+Campo Grande,Santo Amaro,Rua Manuel de Barros Lima,residential
+Campo Grande,Arruda,Rua Manuel de Barros Lima,residential
+Campo Grande,Peixinhos,Rua Oliveira Fonseca,residential
+Peixinhos,Arruda,Rua Colorado,residential
+Peixinhos,Campo Grande,Rua Colorado,residential
+Peixinhos,Campina do Barreto,Avenida Poeta Vinicius de Morais,residential
+Cordeiro,Prado,Rua Eurico de Souza Leão,residential
+Cordeiro,San Martin,Rua Eurico de Souza Leão,residential
+Cordeiro,Engenho do Meio,Rua Professor Evaldo Altino,residential
+Cordeiro,Torrões,Rua Professor Evaldo Altino,residential
+Cordeiro,Torre,Rua Eurico de Souza Leão,residential
+Cordeiro,Zumbi,Rua Eurico de Souza Leão,residential
+Cordeiro,Santana,Rua Eurico de Souza Leão,residential
+Cordeiro,Iputinga,Rua Professor Evaldo Altino,residential
+Cordeiro,Poço da Panela,Rua Professor Evaldo Altino,residential
+Madalena,Graças,Rua José Osório,primary
+Madalena,Derby,Rua Real da Torre,primary
+Madalena,Paissandu,Rua Real da Torre,primary
+Madalena,Ilha do Retiro,Rua Real da Torre,primary
+Madalena,Prado,Rua Real da Torre,primary
+Madalena,Torre,Rua José Osório,primary
+Madalena,Zumbi,Rua José Osório,primary
+Torre,Jaqueira,Rua José Bonifácio,primary
+Torre,Graças,Rua Professor Trajano de Mendonça,primary
+Torre,Cordeiro,Rua Professor Trajano de Mendonça,primary
+Torre,Madalena,Rua Professor Trajano de Mendonça,primary
+Torre,Zumbi,Rua Professor Trajano de Mendonça,primary
+Torre,Santana,Rua José Bonifácio,primary
+Zumbi,Prado,Avenida Caxangá,primary
+Zumbi,Cordeiro,Rua Frei Teófilo de Virgoleta,residential
+Zumbi,Madalena,Avenida Caxangá,primary
+Zumbi,Torre,Rua Frei Teófilo de Virgoleta,residential
+Santana,Jaqueira,Rua Amaraji,residential
+Santana,Cordeiro,Rua Amaraji,residential
+Santana,Torre,Rua Amaraji,residential
+Santana,Casa Forte,Rua Samuel Farias,residential
+Santana,Parnamirim,Rua Amaraji,residential
+Santana,Poço da Panela,Rua Samuel Farias,residential
+Alto José do Pinho,Casa Amarela,Rua Ori,residential
+Alto José do Pinho,Morro da Conceição,Rua Ori,residential
+Alto José do Pinho,Bomba do Hemetério,Rua Ori,residential
+Alto José do Pinho,Mangabeira,Rua Ori,residential
+Alto José do Pinho,Alto Santa Teresinha,Rua Ori,residential
+Alto José do Pinho,Alto José Bonifácio,Rua Ori,residential
+Alto do Mandu,Casa Amarela,Rua Eliete Aguiar,residential
+Alto do Mandu,Monteiro,Rua Eliete Aguiar,residential
+Alto do Mandu,Macaxeira,Rua Eliete Aguiar,residential
+Alto do Mandu,Nova Descoberta,Rua Eliete Aguiar,residential
+Alto do Mandu,Apipucos,Rua Eliete Aguiar,residential
+Casa Amarela,Tamarineira,Rua Padre Lemos,secondary
+Casa Amarela,Alto José do Pinho,Rua Taquaratinga,tertiary
+Casa Amarela,Alto do Mandu,Rua Padre Lemos,secondary
+Casa Amarela,Casa Forte,Rua Padre Lemos,secondary
+Casa Amarela,Monteiro,Rua Padre Lemos,secondary
+Casa Amarela,Morro da Conceição,Rua Taquaratinga,tertiary
+Casa Amarela,Parnamirim,Rua Padre Lemos,secondary
+Casa Amarela,Poço da Panela,Rua Padre Lemos,secondary
+Casa Amarela,Mangabeira,Rua Taquaratinga,tertiary
+Casa Amarela,Nova Descoberta,Rua Padre Lemos,secondary
+Casa Amarela,Vasco da Gama,Rua Padre Lemos,secondary
+Casa Forte,Santana,Rua de Casa Forte,tertiary
+Casa Forte,Casa Amarela,Rua de Casa Forte,tertiary
+Casa Forte,Parnamirim,Rua Jerônimo de Albuquerque,tertiary
+Casa Forte,Poço da Panela,Rua de Casa Forte,tertiary
+Iputinga,Cidade Universitária,Rua Alagoana,residential
+Iputinga,Engenho do Meio,Rua Alagoana,residential
+Iputinga,Caxangá,Rua Alagoana,residential
+Iputinga,Várzea,Rua Alagoana,residential
+Iputinga,Cordeiro,Rua Alagoana,residential
+Iputinga,Monteiro,Rua Doutor Virgínio Marquês,residential
+Iputinga,Poço da Panela,Rua Doutor Virgínio Marquês,residential
+Iputinga,Apipucos,Rua Doutor Virgínio Marquês,residential
+Monteiro,Alto do Mandu,Rua Muniz Galvão,residential
+Monteiro,Casa Amarela,Rua Muniz Galvão,residential
+Monteiro,Iputinga,Rua Muniz Galvão,residential
+Monteiro,Poço da Panela,Rua Muniz Galvão,residential
+Monteiro,Apipucos,Rua Muniz Galvão,residential
+Morro da Conceição,Alto José do Pinho,"['Rua I tabaiana', 'Rua do Dende']",residential
+Morro da Conceição,Casa Amarela,"['Rua I tabaiana', 'Rua do Dende']",residential
+Morro da Conceição,Alto José Bonifácio,"['Rua I tabaiana', 'Rua do Dende']",residential
+Morro da Conceição,Vasco da Gama,"['Rua I tabaiana', 'Rua do Dende']",residential
+Parnamirim,Jaqueira,Avenida Parnamirim,secondary
+Parnamirim,Tamarineira,Avenida Parnamirim,secondary
+Parnamirim,Santana,Avenida Parnamirim,secondary
+Parnamirim,Casa Amarela,Avenida Parnamirim,secondary
+Parnamirim,Casa Forte,Avenida Parnamirim,secondary
+Poço da Panela,Cordeiro,Rua dos Arcos,residential
+Poço da Panela,Santana,Rua Paulo Inojosa,residential
+Poço da Panela,Casa Amarela,Rua dos Arcos,residential
+Poço da Panela,Casa Forte,Rua dos Arcos,residential
+Poço da Panela,Iputinga,Rua dos Arcos,residential
+Poço da Panela,Monteiro,Rua dos Arcos,residential
+Beberibe,Linha do Tiro,Rua Taguatinga,tertiary
+Beberibe,Porto da Madeira,Rua Taguatinga,tertiary
+Beberibe,Água Fria,Rua Taguatinga,tertiary
+Beberibe,Dois Unidos,Rua Taguatinga,tertiary
+Bomba do Hemetério,Arruda,Rua São Gabriel,residential
+Bomba do Hemetério,Alto José do Pinho,Rua São Gabriel,residential
+Bomba do Hemetério,Mangabeira,Rua São Gabriel,residential
+Bomba do Hemetério,Alto Santa Teresinha,Rua São Gabriel,residential
+Bomba do Hemetério,Água Fria,Rua São Gabriel,residential
+Cajueiro,Campina do Barreto,"['Rua Maria Ramos', 'Rua Couto Soares']",residential
+Cajueiro,Fundão,Rua Couto Soares,residential
+Cajueiro,Porto da Madeira,Rua Maria Ramos,residential
+Campina do Barreto,Arruda,Rua Iguatu,residential
+Campina do Barreto,Peixinhos,Rua dos Peixinhos,residential
+Campina do Barreto,Cajueiro,Rua Iguatu,residential
+Campina do Barreto,Fundão,Rua Iguatu,residential
+Campina do Barreto,Água Fria,Rua Iguatu,residential
+Fundão,Cajueiro,Avenida Beberibe,primary
+Fundão,Campina do Barreto,Avenida Beberibe,primary
+Fundão,Porto da Madeira,Avenida Beberibe,primary
+Fundão,Água Fria,Avenida Beberibe,primary
+Linha do Tiro,Beberibe,Rua Santa Mercedes,residential
+Linha do Tiro,Alto Santa Teresinha,Rua Santa Mercedes,residential
+Linha do Tiro,Água Fria,Rua Santa Mercedes,residential
+Linha do Tiro,Alto José Bonifácio,Rua Santa Mercedes,residential
+Linha do Tiro,Brejo de Beberibe,Rua Rio Igarapé,residential
+Linha do Tiro,Dois Unidos,Rua Santa Mercedes,residential
+Mangabeira,Tamarineira,Rua Azurita,residential
+Mangabeira,Arruda,Rua Azurita,residential
+Mangabeira,Alto José do Pinho,Rua Azurita,residential
+Mangabeira,Casa Amarela,Rua Azurita,residential
+Mangabeira,Bomba do Hemetério,Rua Azurita,residential
+Porto da Madeira,Beberibe,Rua Belo Horizonte,residential
+Porto da Madeira,Cajueiro,Rua Belo Horizonte,residential
+Porto da Madeira,Fundão,Rua Belo Horizonte,residential
+Porto da Madeira,Água Fria,Rua Belo Horizonte,residential
+Alto Santa Teresinha,Alto José do Pinho,Rua Aurea,residential
+Alto Santa Teresinha,Bomba do Hemetério,Rua Andricora,residential
+Alto Santa Teresinha,Linha do Tiro,Rua Andricora,residential
+Alto Santa Teresinha,Água Fria,Rua Andricora,residential
+Alto Santa Teresinha,Alto José Bonifácio,Rua Andricora,residential
+Água Fria,Arruda,Rua Luiz Cerqueira,residential
+Água Fria,Beberibe,Rua Luiz Cerqueira,residential
+Água Fria,Bomba do Hemetério,Rua Luiz Cerqueira,residential
+Água Fria,Campina do Barreto,Rua Luiz Cerqueira,residential
+Água Fria,Fundão,Rua Luiz Cerqueira,residential
+Água Fria,Linha do Tiro,Rua Luiz Cerqueira,residential
+Água Fria,Porto da Madeira,Rua Luiz Cerqueira,residential
+Água Fria,Alto Santa Teresinha,Rua Luiz Cerqueira,residential
+Alto José Bonifácio,Alto José do Pinho,Rua São Domingos Sávio,residential
+Alto José Bonifácio,Morro da Conceição,Rua São Domingos Sávio,residential
+Alto José Bonifácio,Linha do Tiro,Rua Tejipio,residential
+Alto José Bonifácio,Alto Santa Teresinha,Rua Tejipio,residential
+Alto José Bonifácio,Vasco da Gama,Rua São Domingos Sávio,residential
+Alto José Bonifácio,Brejo de Beberibe,Rua São Domingos Sávio,residential
+Córrego do Jenipapo,Macaxeira,Rua dos Coquinhos,residential
+Córrego do Jenipapo,Nova Descoberta,Rua dos Coquinhos,residential
+Córrego do Jenipapo,Apipucos,Rua dos Coquinhos,residential
+Córrego do Jenipapo,Dois Irmãos,Rua dos Coquinhos,residential
+Córrego do Jenipapo,Brejo da Guabiraba,Rua dos Coquinhos,residential
+Córrego do Jenipapo,Guabiraba,Rua dos Coquinhos,residential
+Macaxeira,Alto do Mandu,Rua Maria Cândida,tertiary
+Macaxeira,Córrego do Jenipapo,Rua Maria Cândida,tertiary
+Macaxeira,Nova Descoberta,"['Rua Ida Maria', 'Rua Nova Iguaçu']",residential
+Macaxeira,Apipucos,Rua Maria Cândida,tertiary
+Nova Descoberta,Alto do Mandu,Rua Alto da Brasileira,residential
+Nova Descoberta,Casa Amarela,Rua Alto da Brasileira,residential
+Nova Descoberta,Córrego do Jenipapo,Rua Alto da Brasileira,residential
+Nova Descoberta,Macaxeira,Rua Alto da Brasileira,residential
+Nova Descoberta,Vasco da Gama,Rua Alto da Brasileira,residential
+Nova Descoberta,Brejo da Guabiraba,Rua Alto da Brasileira,residential
+Nova Descoberta,Brejo de Beberibe,Rua Alto da Brasileira,residential
+Vasco da Gama,Casa Amarela,Rua Santa Maria Goretti,residential
+Vasco da Gama,Morro da Conceição,Rua Santa Maria Goretti,residential
+Vasco da Gama,Alto José Bonifácio,Rua Santa Maria Goretti,residential
+Vasco da Gama,Nova Descoberta,Rua Santa Maria Goretti,residential
+Vasco da Gama,Brejo de Beberibe,Rua Santa Maria Goretti,residential
+Apipucos,Caxangá,Rua Jorge Tasso Neto,residential
+Apipucos,Alto do Mandu,Rua Jorge Tasso Neto,residential
+Apipucos,Iputinga,Rua Jorge Tasso Neto,residential
+Apipucos,Monteiro,Rua Jorge Tasso Neto,residential
+Apipucos,Córrego do Jenipapo,Rua Jorge Tasso Neto,residential
+Apipucos,Macaxeira,Rua Jorge Tasso Neto,residential
+Apipucos,Dois Irmãos,Rua Jorge Tasso Neto,residential
+Dois Irmãos,Caxangá,Rua Professor Cláudio Selva,residential
+Dois Irmãos,Córrego do Jenipapo,Rua Professor Cláudio Selva,residential
+Dois Irmãos,Apipucos,Rua Professor Cláudio Selva,residential
+Dois Irmãos,Sítio dos Pintos,Rua Professor Cláudio Selva,residential
+Dois Irmãos,Guabiraba,Rua Professor Cláudio Selva,residential
+Sítio dos Pintos,Caxangá,Estrada dos Pintos,"['tertiary', 'residential']"
+Sítio dos Pintos,Dois Irmãos,Estrada dos Pintos,residential
+Sítio dos Pintos,Guabiraba,Estrada dos Pintos,"['tertiary', 'residential']"
+Brejo da Guabiraba,Córrego do Jenipapo,Rua Arca de Noe,residential
+Brejo da Guabiraba,Nova Descoberta,Rua Arca de Noe,residential
+Brejo da Guabiraba,Brejo de Beberibe,Rua Arca de Noe,residential
+Brejo da Guabiraba,Passarinho,Rua Arca de Noe,residential
+Brejo da Guabiraba,Guabiraba,Rua Arca de Noe,residential
+Brejo de Beberibe,Linha do Tiro,Avenida Vereador Otacílio Azevedo,secondary
+Brejo de Beberibe,Alto José Bonifácio,Avenida Vereador Otacílio Azevedo,secondary
+Brejo de Beberibe,Nova Descoberta,Avenida Vereador Otacílio Azevedo,secondary
+Brejo de Beberibe,Vasco da Gama,Avenida Vereador Otacílio Azevedo,secondary
+Brejo de Beberibe,Brejo da Guabiraba,Avenida Vereador Otacílio Azevedo,secondary
+Brejo de Beberibe,Dois Unidos,Avenida Vereador Otacílio Azevedo,secondary
+Brejo de Beberibe,Passarinho,Avenida Vereador Otacílio Azevedo,secondary
+Dois Unidos,Beberibe,Avenida Hildebrando de Vasconcelos,tertiary
+Dois Unidos,Linha do Tiro,Avenida Hildebrando de Vasconcelos,tertiary
+Dois Unidos,Brejo de Beberibe,Avenida Hildebrando de Vasconcelos,tertiary
+Dois Unidos,Passarinho,Avenida Hildebrando de Vasconcelos,tertiary
+Passarinho,Brejo da Guabiraba,Avenida Chagas Ferreira,residential
+Passarinho,Brejo de Beberibe,Avenida Chagas Ferreira,residential
+Passarinho,Dois Unidos,Rua Vargem linda,residential
+Passarinho,Guabiraba,Rua Vargem linda,residential
+Guabiraba,Córrego do Jenipapo,Estrada da Mumbeca,secondary
+Guabiraba,Dois Irmãos,Estrada da Mumbeca,secondary
+Guabiraba,Sítio dos Pintos,Estrada da Mumbeca,secondary
+Guabiraba,Brejo da Guabiraba,Estrada da Mumbeca,secondary
+Guabiraba,Passarinho,Estrada da Mumbeca,secondary
+Guabiraba,Pau-Ferro,Estrada da Mumbeca,secondary
+Pau-Ferro,Guabiraba,Rua Evaristo da Veiga,residential
+Pau-Ferro,Aldeia,Rua Evaristo da Veiga,residential
+Aldeia,Pau-Ferro,Estrada da Mumbeca,secondary
+Aldeia,Oitenta,Estrada da Mumbeca,secondary
+Oitenta,Aldeia,"['Rua José Rufino', 'Rua Assis Brasil']",residential
