@@ -1,25 +1,27 @@
 import pandas as pd
 import unidecode
-import ast
 
 def normalize_text(text):
-    return unidecode.unidecode(text).lower().strip() if isinstance(text, str) else text
+    if not isinstance(text, str):
+        return text
+    text = unidecode.unidecode(text)
+    return text.lower().strip()
 
 
-df = pd.read_csv('bairros_qgis.csv')
-df.head()
+def process_bairros_data(input_csv_path: str, output_csv_path: str) -> None:
+    df = pd.read_csv(input_csv_path)
 
-# drop useless columns
+    df_melted = df.melt(
+        var_name='microrregiao_cod',
+        value_name='bairro'
+    )
 
-df = df.drop(columns=['full_id', 'osm_id', 'osm_type', 'admin_level', 'wikidata', 'wikipedia', 'place', 'boundary', 'type', 'landuse'], errors='ignore')
-df_pairs = df.assign(neighbor=df['neighbors'].apply(ast.literal_eval)).explode('neighbor')
+    df_melted.dropna(subset=['bairro'], inplace=True)
+    df_melted = df_melted[df_melted['bairro'].str.strip() != '']
 
-df_pairs = df_pairs.dropna(
-    subset=['neighbor']
-    ).reset_index(drop=True)[['name', 'neighbor']]
+    df_melted['microrregiao'] = df_melted['microrregiao_cod'].str.split('.').str[0]
+    
+    df_melted['bairro'] = df_melted['bairro'].apply(normalize_text)
 
-df_pairs.head()
-df.info()
-pd.DataFrame(df_pairs).to_csv('bairros_vizinhos.csv', index=False)
-
-
+    df_final = df_melted[['bairro', 'microrregiao']].drop_duplicates(subset=['bairro']).sort_values(by='bairro')
+    df_final.to_csv(output_csv_path, index=False)
