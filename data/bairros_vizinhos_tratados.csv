@@ -1,495 +1,248 @@
-Bairro,Vizinho,Logradouro,Tipo,Peso,Tipo Normalizado,Id Rua,Comentário OSM
-Jaqueira,Graças,Rua Neto de Mendonça,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/965984036,Specify road smoothness
-Aflitos,Encruzilhada,Rua Manuel de Carvalho,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/134174443,Specify road smoothness
-Hipódromo,Encruzilhada,Rua Carlos Fernandes,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/140478431,Acréscimo de nova rota cicloviária
-Hipódromo,Campo Grande,Rua Carlos Fernandes,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/974688528,Acréscimo de nova rota cicloviária
-Jaqueira,Santana,Rua Neto de Mendonça,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/965984036,Specify road smoothness
-Aflitos,Rosarinho,Rua Manuel de Carvalho,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/134174443,Specify road smoothness
-Jaqueira,Parnamirim,Rua Neto de Mendonça,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/965984036,Specify road smoothness
-Aflitos,Espinheiro,Rua Manuel de Carvalho,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/134174443,Specify road smoothness
-Jaqueira,Tamarineira,Rua Neto de Mendonça,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/965984036,Specify road smoothness
-Hipódromo,Ponto de Parada,Rua Fonseca Oliveira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/151261446,Acréscimo de nova rota cicloviária
-Aflitos,Graças,Rua Manuel de Carvalho,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/134174443,Specify road smoothness
-Jaqueira,Torre,Rua Neto de Mendonça,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/965984036,Specify road smoothness
-Ponto de Parada,Hipódromo,Rua Couto Magalhães,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/140479112,Acréscimo de nova rota cicloviária
-Ponto de Parada,Rosarinho,Rua Couto Magalhães,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/140479112,Acréscimo de nova rota cicloviária
-Ponto de Parada,Encruzilhada,Rua Couto Magalhães,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/140479112,Acréscimo de nova rota cicloviária
-Rosarinho,Ponto de Parada,Rua Regueira Costa,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/134170995,Specify speed limits
-Ponto de Parada,Arruda,Rua Couto Magalhães,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/140479112,Acréscimo de nova rota cicloviária
-Rosarinho,Aflitos,Rua Regueira Costa,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/134170995,Specify speed limits
-Ponto de Parada,Campo Grande,Rua Couto Magalhães,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/140479112,Acréscimo de nova rota cicloviária
-Rosarinho,Tamarineira,Rua Regueira Costa,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/134170995,Specify speed limits
-Rosarinho,Encruzilhada,Rua Regueira Costa,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/134170995,Specify speed limits
-Rosarinho,Arruda,Rua Regueira Costa,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/134170995,Specify speed limits
-Rosarinho,Graças,Rua Regueira Costa,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/134170995,Specify speed limits
-Tamarineira,Jaqueira,Rua Cônego Barata,primary_link,1.2,Avenida principal,https://openstreetmap.org/way/241530799,Specify road smoothness
-Tamarineira,Rosarinho,Rua Cônego Barata,primary,1.2,Avenida principal,https://openstreetmap.org/way/198109567,add parking
-Tamarineira,Graças,Rua Cônego Barata,primary_link,1.2,Avenida principal,https://openstreetmap.org/way/241530799,Specify road smoothness
-Tamarineira,Arruda,Rua Cônego Barata,primary,1.2,Avenida principal,https://openstreetmap.org/way/198109567,add parking
-Tamarineira,Mangabeira,Rua Cônego Barata,primary,1.2,Avenida principal,https://openstreetmap.org/way/198109567,add parking
-Tamarineira,Parnamirim,Rua Cônego Barata,primary_link,1.2,Avenida principal,https://openstreetmap.org/way/241530799,Specify road smoothness
-Tamarineira,Casa Amarela,Rua Cônego Barata,primary_link,1.2,Avenida principal,https://openstreetmap.org/way/241530799,Specify road smoothness
-Encruzilhada,Aflitos,Avenida Beberibe,primary,1.2,Avenida principal,https://openstreetmap.org/way/128677948,"Added a turn restriction, set lanes, crossing tags and adjusted geometry  in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1066"
-Encruzilhada,Rosarinho,Avenida Beberibe,primary,1.2,Avenida principal,https://openstreetmap.org/way/967666039,"Added a turn restriction, set lanes, crossing tags and adjusted geometry  in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1066"
-Encruzilhada,Graças,Avenida Beberibe,primary,1.2,Avenida principal,https://openstreetmap.org/way/128677948,"Added a turn restriction, set lanes, crossing tags and adjusted geometry  in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1066"
-Encruzilhada,Ponto de Parada,Avenida Beberibe,primary,1.2,Avenida principal,https://openstreetmap.org/way/967666039,"Added a turn restriction, set lanes, crossing tags and adjusted geometry  in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1066"
-Encruzilhada,Espinheiro,Avenida Beberibe,primary,1.2,Avenida principal,https://openstreetmap.org/way/128677948,"Added a turn restriction, set lanes, crossing tags and adjusted geometry  in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1066"
-Encruzilhada,Hipódromo,Avenida Beberibe,primary,1.2,Avenida principal,https://openstreetmap.org/way/967666039,"Added a turn restriction, set lanes, crossing tags and adjusted geometry  in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1066"
-Encruzilhada,Torreão,Avenida Beberibe,primary,1.2,Avenida principal,https://openstreetmap.org/way/967666039,"Added a turn restriction, set lanes, crossing tags and adjusted geometry  in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1066"
-Encruzilhada,Campo Grande,Avenida Beberibe,primary,1.2,Avenida principal,https://openstreetmap.org/way/967666039,"Added a turn restriction, set lanes, crossing tags and adjusted geometry  in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1066"
-Espinheiro,Aflitos,Avenida João de Barros,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/128683794,Specify surfaces
-Espinheiro,Encruzilhada,Avenida João de Barros,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/128683794,Specify surfaces
-Espinheiro,Torreão,Rua Marquês do Paraná,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/144474968,Specify surfaces
-Espinheiro,Graças,Avenida João de Barros,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/128683794,Specify surfaces
-Graças,Rosarinho,Rua Amélia,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/967962393,Specify road smoothness
-Graças,Aflitos,Rua Amélia,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/967962393,Specify road smoothness
-Graças,Tamarineira,Rua Amélia,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/967962393,Specify road smoothness
-Graças,Encruzilhada,Rua Amélia,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/967962393,Specify road smoothness
-Espinheiro,Boa Vista,Avenida João de Barros,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/128683794,Specify surfaces
-Espinheiro,Santo Amaro,Avenida João de Barros,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/128683794,Specify surfaces
-Graças,Espinheiro,Rua Amélia,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/967962393,Specify road smoothness
-Graças,Jaqueira,Rua Amélia,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/967962393,Specify road smoothness
-Graças,Boa Vista,Rua Amélia,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/967962393,Specify road smoothness
-Graças,Derby,Rua Amélia,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/967962393,Specify road smoothness
-Graças,Madalena,Rua Amélia,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/967962393,Specify road smoothness
-Torreão,Campo Grande,Rua Cândido Lacerda,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/128218928,Aligned residential and service ways
-Joana Bezerra,Ilha do Leite,Rua Braço do Norte,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/255536611,Aligned residential ways near Ilha Joana Bezerra
-Torreão,Espinheiro,Rua Cândido Lacerda,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/128218928,Aligned residential and service ways
-Torreão,Encruzilhada,Rua Cândido Lacerda,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/128218928,Aligned residential and service ways
-Joana Bezerra,Coelhos,Rua Braço do Norte,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/255536611,Aligned residential ways near Ilha Joana Bezerra
-Joana Bezerra,Afogados,Rua Braço do Norte,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/255536611,Aligned residential ways near Ilha Joana Bezerra
-Joana Bezerra,Paissandu,Rua Braço do Norte,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/255536611,Aligned residential ways near Ilha Joana Bezerra
-Joana Bezerra,Ilha do Retiro,Rua Braço do Norte,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/255536611,Aligned residential ways near Ilha Joana Bezerra
-Graças,Torre,Rua Amélia,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/967962393,Specify road smoothness
-Torreão,Santo Amaro,Rua Othon Paraíso,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/128219448,"Updated geometry, added lanes and a crossing in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1064"
-Bairro do Recife,Santo Amaro,Rua Álvares Cabral,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/51816239,mão dupla para bicicletas em vias menores do Recife Antigo.
-Bairro do Recife,Santo Antônio,Rua Álvares Cabral,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/51816239,mão dupla para bicicletas em vias menores do Recife Antigo.
-Bairro do Recife,Campo Grande,Rua Álvares Cabral,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/51816239,mão dupla para bicicletas em vias menores do Recife Antigo.
-Santo Amaro,Espinheiro,Rua Coelho Leite,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/132055216,Inserindo Ceps de Ruas no Bairro de santo amaro - Recife/PE Conforme CNEFE. Parte18.
-Santo Amaro,Torreão,Avenida da Saudade,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/128161935,Added a oneway tag to part of Avenida da Saudade #adt
-Santo Amaro,Bairro do Recife,Avenida da Saudade,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/128161935,Added a oneway tag to part of Avenida da Saudade #adt
-Santo Amaro,Boa Vista,Avenida da Saudade,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/128161935,Added a oneway tag to part of Avenida da Saudade #adt
-Santo Amaro,Soledade,Rua Coelho Leite,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/132055216,Inserindo Ceps de Ruas no Bairro de santo amaro - Recife/PE Conforme CNEFE. Parte18.
-Santo Amaro,Santo Antônio,Avenida da Saudade,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/128161935,Added a oneway tag to part of Avenida da Saudade #adt
-Santo Amaro,Campo Grande,Avenida da Saudade,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/128161935,Added a oneway tag to part of Avenida da Saudade #adt
-Boa Vista,Graças,Rua Rosário da Boa Vista,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/656119805,"Modified priority of roads in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1064"
-Boa Vista,Santo Amaro,Rua Rosário da Boa Vista,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/656119805,"Modified priority of roads in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1064"
-Boa Vista,Espinheiro,Rua Rosário da Boa Vista,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/656119805,"Modified priority of roads in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1064"
-Boa Vista,Coelhos,Rua Rosário da Boa Vista,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/656119805,"Modified priority of roads in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1064"
-Boa Vista,Derby,Rua Rosário da Boa Vista,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/656119805,"Modified priority of roads in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1064"
-Boa Vista,Ilha do Leite,Rua Rosário da Boa Vista,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/656119805,"Modified priority of roads in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1064"
-Boa Vista,Santo Antônio,Rua Rosário da Boa Vista,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/656119805,"Modified priority of roads in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1064"
-Boa Vista,Paissandu,Rua Rosário da Boa Vista,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/656119805,"Modified priority of roads in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1064"
-Coelhos,Joana Bezerra,Rua Júlio Bernardo,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/367543798,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Coelhos,Ilha do Leite,Rua Júlio Bernardo,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/367543798,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Boa Vista,Soledade,Rua Rosário da Boa Vista,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/656119805,"Modified priority of roads in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1064"
-Coelhos,Boa Vista,Rua Júlio Bernardo,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/367543798,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Coelhos,Santo Antônio,Rua Júlio Bernardo,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/367543798,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Derby,Graças,Rua Barão de Goiana,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/132901896,Specify road smoothness
-Derby,Boa Vista,Rua Barão de Goiana,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/132901896,Specify road smoothness
-Derby,Ilha do Retiro,Rua Barão de Goiana,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/132901896,Specify road smoothness
-Derby,Paissandu,Rua Barão de Goiana,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/132901896,Specify road smoothness
-Ilha do Leite,Joana Bezerra,Rua Estado de Israel,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/129178018,Specify road surfaces
-Ilha do Leite,Boa Vista,Rua Marquês Amorim,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/652525663,"Added oneways to roads in Recife, Brazil. #Kaart Ground Survey 2021"
-Derby,Madalena,Rua Barão de Goiana,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/132901896,Specify road smoothness
-Ilha do Leite,Paissandu,Rua Estado de Israel,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/129178018,Specify road surfaces
-Paissandu,Boa Vista,Avenida Portugal,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/656120186,"Qualidade de Rodagem das Vias Residenciais (Recife, Pernambuco, Brazil)"
-Paissandu,Joana Bezerra,Avenida Portugal,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/656120186,"Qualidade de Rodagem das Vias Residenciais (Recife, Pernambuco, Brazil)"
-Ilha do Leite,Coelhos,Rua Marquês Amorim,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/652525663,"Added oneways to roads in Recife, Brazil. #Kaart Ground Survey 2021"
-Paissandu,Derby,Avenida Portugal,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/656120186,"Qualidade de Rodagem das Vias Residenciais (Recife, Pernambuco, Brazil)"
-Paissandu,Ilha do Leite,Avenida Portugal,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/656120186,"Qualidade de Rodagem das Vias Residenciais (Recife, Pernambuco, Brazil)"
-Paissandu,Ilha do Retiro,Avenida Portugal,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/656120186,"Qualidade de Rodagem das Vias Residenciais (Recife, Pernambuco, Brazil)"
-Paissandu,Madalena,Avenida Portugal,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/656120186,"Qualidade de Rodagem das Vias Residenciais (Recife, Pernambuco, Brazil)"
-Santo Antônio,Bairro do Recife,Rua Diário de Pernambuco,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/892080169,"inclusão de calçadas, endereços e correção de edificação na cidade de Recife-PE."
-Santo Antônio,Coelhos,Avenida Guararapes,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/129490260,"Added conditional restriction in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1064"
-Santo Antônio,Santo Amaro,Avenida Guararapes,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/129490260,"Added conditional restriction in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1064"
-Santo Antônio,Boa Vista,Avenida Guararapes,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/129490260,"Added conditional restriction in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1064"
-Afogados,Bongi,Rua Doutor Adelino,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/137186687,Specify surfaces
-Afogados,Ilha do Retiro,Rua Ursulino Pinto de Carvalho,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/137186697,"Added pedestrian road crossings. Updated number of road lanes and name in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1064"
-Soledade,Santo Amaro,Avenida Oliveira Lima,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/128216048,inclusão de Edificios na em Recife - PE.
-Soledade,Boa Vista,Avenida Oliveira Lima,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/128216048,inclusão de Edificios na em Recife - PE.
-Afogados,Joana Bezerra,Rua Ursulino Pinto de Carvalho,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/137186697,"Added pedestrian road crossings. Updated number of road lanes and name in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1064"
-Afogados,Mangueira,Rua Doutor Adelino,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/137186687,Specify surfaces
-Afogados,Mustardinha,Rua Doutor Adelino,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/137186687,Specify surfaces
-Afogados,Pina,Rua Ursulino Pinto de Carvalho,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/137186697,"Added pedestrian road crossings. Updated number of road lanes and name in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1064"
-Afogados,Prado,Rua Ursulino Pinto de Carvalho,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/137186697,"Added pedestrian road crossings. Updated number of road lanes and name in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1064"
-Afogados,Jiquiá,Rua Ursulino Pinto de Carvalho,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/137186697,"Added pedestrian road crossings. Updated number of road lanes and name in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1064"
-Bongi,Afogados,Rua Randolfo Pinto Ferreira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/192027730,Добавил дорогу
-Afogados,Imbiribeira,Rua Ursulino Pinto de Carvalho,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/137186697,"Added pedestrian road crossings. Updated number of road lanes and name in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1064"
-Brasília Teimosa,Pina,Rua Atum,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/647079907,Added road names and highways in Recife retrieved from IBGE Map of Urban Areas. #Kaart 2018
-Bongi,Prado,Rua Pio Muniz de Farias,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/192029323,"Added unpaved to roads and gate barrier to roads in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-Bongi,Mustardinha,Rua Randolfo Pinto Ferreira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/192027730,Добавил дорогу
-Ilha do Retiro,Derby,Rua João Elísio Ramos,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/129813358,Checked secondaries and updated their attributes. #Kaart 2022
-Ilha do Retiro,Paissandu,Rua João Elísio Ramos,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/129813358,Checked secondaries and updated their attributes. #Kaart 2022
-Ilha do Retiro,Joana Bezerra,Rua João Elísio Ramos,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/129813358,Checked secondaries and updated their attributes. #Kaart 2022
-Ilha do Retiro,Afogados,Rua João Elísio Ramos,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/129813357,Fixed building and highway intersection mpr.lt/c/49049/t/247169670
-Ilha do Retiro,Prado,Rua João Elísio Ramos,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/129813358,Checked secondaries and updated their attributes. #Kaart 2022
-Bongi,San Martin,Rua Randolfo Pinto Ferreira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/192027730,Добавил дорогу
-Ilha do Retiro,Madalena,Rua João Elísio Ramos,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/129813358,Checked secondaries and updated their attributes. #Kaart 2022
-Mangueira,Afogados,Rua Bernadete Xavier Gomes,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377691660,Residential ways are modified
-Mangueira,San Martin,Rua Benício Dias,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377691658,Added and provided connectivity to residential ways
-Mustardinha,Afogados,Rua Grão Mogol,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/192026454,Created service and residential ways
-Mangueira,Jiquiá,Rua Benício Dias,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377691658,Added and provided connectivity to residential ways
-Mustardinha,San Martin,Rua Francisca Benigna Cavalcanti,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/192025811,Adicionado nomes de estradas e rodovias em Recife recuperadas de IBGE Map of Urban Areas. #Kaart 2019
-Mustardinha,Mangueira,Rua Grão Mogol,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/192026454,Created service and residential ways
-Mustardinha,Bongi,Rua Francisca Benigna Cavalcanti,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/192025811,Adicionado nomes de estradas e rodovias em Recife recuperadas de IBGE Map of Urban Areas. #Kaart 2019
-Prado,Afogados,Rua Carlos Gomes,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/318738696,Checked secondaries and updated their attributes. #Kaart 2022
-Prado,Bongi,Rua Carlos Gomes,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/318738696,Checked secondaries and updated their attributes. #Kaart 2022
-Mangueira,Mustardinha,Rua Benício Dias,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377691658,Added and provided connectivity to residential ways
-Prado,Ilha do Retiro,Rua Carlos Gomes,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/318738696,Checked secondaries and updated their attributes. #Kaart 2022
-Prado,San Martin,Rua Carlos Gomes,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/318738696,Checked secondaries and updated their attributes. #Kaart 2022
-Prado,Cordeiro,Rua Carlos Gomes,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/318738696,Checked secondaries and updated their attributes. #Kaart 2022
-Prado,Madalena,Rua Carlos Gomes,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/318738696,Checked secondaries and updated their attributes. #Kaart 2022
-Boa Viagem,Pina,Avenida Hélio Falcão,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/968896542,"Updated classifications and access in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1065"
-Prado,Zumbi,Rua Carlos Gomes,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/318738696,Checked secondaries and updated their attributes. #Kaart 2022
-Boa Viagem,Ibura,Rua Ribeiro de Brito,primary,1.2,Avenida principal,https://openstreetmap.org/way/854994655,Inclusão de Calçadas e Faixa de Pedestres no Bairro de Boa Viagem - Recife/PE.
-Boa Viagem,Imbiribeira,Rua Ribeiro de Brito,primary,1.2,Avenida principal,https://openstreetmap.org/way/854994655,Inclusão de Calçadas e Faixa de Pedestres no Bairro de Boa Viagem - Recife/PE.
-Boa Viagem,Jordão,Rua Ribeiro de Brito,primary,1.2,Avenida principal,https://openstreetmap.org/way/854994655,Inclusão de Calçadas e Faixa de Pedestres no Bairro de Boa Viagem - Recife/PE.
-Cohab,Jordão,Rua Jornalista Nelson Rodrigues,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/222712034,Aligned secondary and residential ways
-Cohab,Barro,Rua Jornalista Nelson Rodrigues,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/222712034,Aligned secondary and residential ways
-Cohab,Ibura,Rua Jornalista Nelson Rodrigues,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/222712034,Aligned secondary and residential ways
-Jordão,Ibura,Rua Junqueiro,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/161828581,"Added a bridge, steps and surface types in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1067"
-Jordão,Boa Viagem,Rua Junqueiro,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/161828581,"Added a bridge, steps and surface types in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1067"
-Jordão,Cohab,Rua da Batalha,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/161828556,"Changed geometry, added a oneway and surface types in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1067"
-Pina,Brasília Teimosa,Rua Manoel de Brito,primary,1.2,Avenida principal,https://openstreetmap.org/way/624935364,"Added missing segment of road. Updated oneway and number of road lanes in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1067"
-Pina,Boa Viagem,Rua Manoel de Brito,primary,1.2,Avenida principal,https://openstreetmap.org/way/624935364,"Added missing segment of road. Updated oneway and number of road lanes in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1067"
-Pina,Afogados,Rua Manoel de Brito,primary,1.2,Avenida principal,https://openstreetmap.org/way/624935364,"Added missing segment of road. Updated oneway and number of road lanes in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1067"
-Pina,Imbiribeira,Rua Manoel de Brito,primary,1.2,Avenida principal,https://openstreetmap.org/way/624935364,"Added missing segment of road. Updated oneway and number of road lanes in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1067"
-Barro,Cohab,Avenida Doutor José Rufino,primary,1.2,Avenida principal,https://openstreetmap.org/way/30811055,"osm data update with mapillary images Recife - Campina Grande, #Kaart #2023 #Brasil #kaart-522"
-Barro,Tejipió,Avenida Doutor José Rufino,primary,1.2,Avenida principal,https://openstreetmap.org/way/30811055,"osm data update with mapillary images Recife - Campina Grande, #Kaart #2023 #Brasil #kaart-522"
-Barro,Ibura,Avenida Doutor José Rufino,primary,1.2,Avenida principal,https://openstreetmap.org/way/30811055,"osm data update with mapillary images Recife - Campina Grande, #Kaart #2023 #Brasil #kaart-522"
-Barro,Areias,Avenida Doutor José Rufino,primary,1.2,Avenida principal,https://openstreetmap.org/way/30811055,"osm data update with mapillary images Recife - Campina Grande, #Kaart #2023 #Brasil #kaart-522"
-Barro,Jardim São Paulo,Avenida Doutor José Rufino,primary,1.2,Avenida principal,https://openstreetmap.org/way/30811055,"osm data update with mapillary images Recife - Campina Grande, #Kaart #2023 #Brasil #kaart-522"
-Coqueiral,Sancho,Rua Doutor José Cornélio,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/316877404,"Modified priority of roads and added lanes to roads in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1070"
-Coqueiral,Tejipió,Rua Quinze de Novembro,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/636857005,"Modified priority of roads and added lanes to roads in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1070"
-Sancho,Coqueiral,Rua Doutor Urbano Vitalino de Melo Filho,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/336107567,Inclusion of Street Names in towns and cities in Brazil. #kaart #2022 #Brazil.
-Sancho,Curado,Rua Josita Almeida,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/336107559,Correção nome do logradouro conforme Prefeitura do Recife.
-Sancho,Totó,Rua Josita Almeida,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/336107559,Correção nome do logradouro conforme Prefeitura do Recife.
-Sancho,Tejipió,Rua Doutor Urbano Vitalino de Melo Filho,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/336107567,Inclusion of Street Names in towns and cities in Brazil. #kaart #2022 #Brazil.
-Tejipió,Barro,Avenida Doutor José Rufino,primary,1.2,Avenida principal,https://openstreetmap.org/way/764604815,"osm data update with mapillary images Recife - Campina Grande, #Kaart #2023 #Brasil #kaart-522"
-Tejipió,Coqueiral,Avenida Doutor José Rufino,primary,1.2,Avenida principal,https://openstreetmap.org/way/764604815,"osm data update with mapillary images Recife - Campina Grande, #Kaart #2023 #Brasil #kaart-522"
-Tejipió,Jardim São Paulo,Avenida Doutor José Rufino,primary,1.2,Avenida principal,https://openstreetmap.org/way/764604815,"osm data update with mapillary images Recife - Campina Grande, #Kaart #2023 #Brasil #kaart-522"
-Coqueiral,Totó,Rua Doutor José Cornélio,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/316877404,"Modified priority of roads and added lanes to roads in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1070"
-Tejipió,Curado,Avenida Doutor José Rufino,primary,1.2,Avenida principal,https://openstreetmap.org/way/764604815,"osm data update with mapillary images Recife - Campina Grande, #Kaart #2023 #Brasil #kaart-522"
-Tejipió,Sancho,Avenida Doutor José Rufino,primary,1.2,Avenida principal,https://openstreetmap.org/way/764604815,"osm data update with mapillary images Recife - Campina Grande, #Kaart #2023 #Brasil #kaart-522"
-Totó,Coqueiral,Rua Juvêncio Marques da Cunha,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/221641871,correção e ortogonização em bairros do Recife
-Totó,Sancho,Rua Ana Carneiro D'Albuquerque,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/221641855,Adicionado nomes de estradas e rodovias em Recife recuperadas de IBGE. #Kaart 2019
-Caçote,Areias,Avenida Justiça e Paz,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/336132451,"I added alleys and surfaces in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-Totó,Curado,Rua Juvêncio Marques da Cunha,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/221641871,correção e ortogonização em bairros do Recife
-Areias,Imbiribeira,Avenida Recife,primary,1.2,Avenida principal,https://openstreetmap.org/way/722757400,"Inclusão de Calçadão, Calçada, Meio fio, Faixa de Pedestre no Bairro do Ipsep - Recife/PE."
-Areias,Caçote,Avenida Recife,primary,1.2,Avenida principal,https://openstreetmap.org/way/722757400,"Inclusão de Calçadão, Calçada, Meio fio, Faixa de Pedestre no Bairro do Ipsep - Recife/PE."
-Areias,Barro,Avenida Recife,primary,1.2,Avenida principal,https://openstreetmap.org/way/722757400,"Inclusão de Calçadão, Calçada, Meio fio, Faixa de Pedestre no Bairro do Ipsep - Recife/PE."
-Areias,Ipsep,Avenida Recife,primary,1.2,Avenida principal,https://openstreetmap.org/way/722757400,"Inclusão de Calçadão, Calçada, Meio fio, Faixa de Pedestre no Bairro do Ipsep - Recife/PE."
-Areias,Estância,Avenida Recife,primary,1.2,Avenida principal,https://openstreetmap.org/way/722757400,"Inclusão de Calçadão, Calçada, Meio fio, Faixa de Pedestre no Bairro do Ipsep - Recife/PE."
-Areias,Jiquiá,Avenida Recife,primary,1.2,Avenida principal,https://openstreetmap.org/way/722757400,"Inclusão de Calçadão, Calçada, Meio fio, Faixa de Pedestre no Bairro do Ipsep - Recife/PE."
-Caçote,Ipsep,Avenida Justiça e Paz,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/336132451,"I added alleys and surfaces in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-Caçote,Ibura,Avenida Justiça e Paz,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/336132451,"I added alleys and surfaces in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-Areias,Ibura,Avenida Recife,primary,1.2,Avenida principal,https://openstreetmap.org/way/722757400,"Inclusão de Calçadão, Calçada, Meio fio, Faixa de Pedestre no Bairro do Ipsep - Recife/PE."
-Ibura,Boa Viagem,Rua Frei Luís de Souza,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/161830501,Melhorias no Bairro do Jordão - Recife
-Ibura,Cohab,Rua Frei Luís de Souza,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/161830501,Melhorias no Bairro do Jordão - Recife
-Ibura,Barro,Rua Frei Luís de Souza,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/161830501,Melhorias no Bairro do Jordão - Recife
-Ibura,Jordão,Rua Frei Luís de Souza,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/161830501,Melhorias no Bairro do Jordão - Recife
-Ibura,Caçote,Rua Frei Luís de Souza,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/161830501,Melhorias no Bairro do Jordão - Recife
-Ibura,Areias,Rua Frei Luís de Souza,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/161830501,Melhorias no Bairro do Jordão - Recife
-Ibura,Imbiribeira,Rua Frei Luís de Souza,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/161830501,Melhorias no Bairro do Jordão - Recife
-Areias,Jardim São Paulo,Avenida Recife,primary,1.2,Avenida principal,https://openstreetmap.org/way/722757400,"Inclusão de Calçadão, Calçada, Meio fio, Faixa de Pedestre no Bairro do Ipsep - Recife/PE."
-Ibura,Ipsep,Rua Frei Luís de Souza,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/161830501,Melhorias no Bairro do Jordão - Recife
-Imbiribeira,Boa Viagem,Rua Doutor Tavares Correia,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/162651563,Specify road smoothness
-Imbiribeira,Afogados,Avenida Marechal Mascarenhas de Moraes,trunk,1.0,Via arterial / Rodovia urbana	,https://openstreetmap.org/way/771504827,"Colocando tag de pista dupla nas vias do Plano Diretor Cicloviário, além de pequenas adições de vias em relaçeõs."
-Imbiribeira,Pina,Avenida Marechal Mascarenhas de Moraes,trunk,1.0,Via arterial / Rodovia urbana	,https://openstreetmap.org/way/771504827,"Colocando tag de pista dupla nas vias do Plano Diretor Cicloviário, além de pequenas adições de vias em relaçeõs."
-Imbiribeira,Ipsep,Rua Doutor Tavares Correia,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/162651563,Specify road smoothness
-Imbiribeira,Areias,Rua Doutor Tavares Correia,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/162651563,Specify road smoothness
-Imbiribeira,Jiquiá,Rua Doutor Tavares Correia,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/162651563,Specify road smoothness
-Ipsep,Areias,Rua Santos Cosme e Damião,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/1184004990,"Inclusão de Calçadão, Calçada, Meio fio, Faixa de Pedestre no Bairro do Ipsep - Recife/PE."
-Ipsep,Caçote,Rua Santos Cosme e Damião,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/1184004990,"Inclusão de Calçadão, Calçada, Meio fio, Faixa de Pedestre no Bairro do Ipsep - Recife/PE."
-Ipsep,Imbiribeira,Rua Francisco Barreto,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/141911463,adicionando parte do PDC
-Ipsep,Ibura,Rua Santos Cosme e Damião,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/1184004990,"Inclusão de Calçadão, Calçada, Meio fio, Faixa de Pedestre no Bairro do Ipsep - Recife/PE."
-Estância,Jiquiá,Rua Sargento Jaime Pantaleão,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/159256399,Inserindo Ceps de Ruas no Bairro da Instância - Recife/PE Conforme CNEFE.
-Estância,Areias,Primeira Travessa Príncipe da Beira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/511298461,Brazil Correction of Street Names and Abbreviated Avenues in the State of Pernambuco #Kaart #2021 #Brazil
-Estância,Jardim São Paulo,Rua Sargento Jaime Pantaleão,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/159256399,Inserindo Ceps de Ruas no Bairro da Instância - Recife/PE Conforme CNEFE.
-Estância,San Martin,Rua Sargento Jaime Pantaleão,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/159256399,Inserindo Ceps de Ruas no Bairro da Instância - Recife/PE Conforme CNEFE.
-Imbiribeira,Ibura,Rua Doutor Tavares Correia,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/162651563,Specify road smoothness
-Jardim São Paulo,Tejipió,Rua Professora Zênia Guerra,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/166189695,Correção nome do logradouro conforme Prefeitura do Recife.
-Jardim São Paulo,Barro,Rua Professora Zênia Guerra,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/166189695,Correção nome do logradouro conforme Prefeitura do Recife.
-Jardim São Paulo,Areias,Rua Guarulhos,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/166189764,"Added lanes and modified road classification and geometry in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1070"
-Jardim São Paulo,Estância,Rua Guarulhos,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/166189764,"Added lanes and modified road classification and geometry in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1070"
-Jardim São Paulo,Jiquiá,Rua Guarulhos,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/166189764,"Added lanes and modified road classification and geometry in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1070"
-Jardim São Paulo,Curado,Rua Professora Zênia Guerra,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/166189695,Correção nome do logradouro conforme Prefeitura do Recife.
-Jiquiá,Mangueira,Rua Manoel Lopes de Barros,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/159257489,"I added surfaces in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-Jiquiá,Areias,Rua Manoel Lopes de Barros,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/159257489,"I added surfaces in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-Jardim São Paulo,San Martin,Rua Guarulhos,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/166189764,"Added lanes and modified road classification and geometry in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1070"
-Jiquiá,Afogados,Rua Manoel Lopes de Barros,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/159257489,"I added surfaces in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-Jiquiá,Imbiribeira,Rua Manoel Lopes de Barros,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/159257489,"I added surfaces in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-Jiquiá,Estância,Rua Manoel Lopes de Barros,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/159257489,"I added surfaces in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-Jiquiá,Jardim São Paulo,Rua Manoel Lopes de Barros,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/159257489,"I added surfaces in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-San Martin,Mustardinha,Avenida General San Martin,primary,1.2,Avenida principal,https://openstreetmap.org/way/966570842,"I added a footway and an alley in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-San Martin,Bongi,Avenida General San Martin,primary,1.2,Avenida principal,https://openstreetmap.org/way/966570842,"I added a footway and an alley in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-San Martin,Prado,Avenida General San Martin,primary,1.2,Avenida principal,https://openstreetmap.org/way/966570842,"I added a footway and an alley in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-San Martin,Mangueira,Avenida General San Martin,primary,1.2,Avenida principal,https://openstreetmap.org/way/778554964,"Adjusted road geometry in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1070"
-San Martin,Estância,Avenida General San Martin,primary,1.2,Avenida principal,https://openstreetmap.org/way/778554964,"Adjusted road geometry in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1070"
-San Martin,Jiquiá,Avenida General San Martin,primary,1.2,Avenida principal,https://openstreetmap.org/way/778554964,"Adjusted road geometry in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1070"
-San Martin,Jardim São Paulo,Avenida General San Martin,primary,1.2,Avenida principal,https://openstreetmap.org/way/778554964,"Adjusted road geometry in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1070"
-San Martin,Cordeiro,Avenida General San Martin,primary,1.2,Avenida principal,https://openstreetmap.org/way/966570842,"I added a footway and an alley in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-San Martin,Torrões,Avenida General San Martin,primary,1.2,Avenida principal,https://openstreetmap.org/way/966570842,"I added a footway and an alley in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-San Martin,Curado,Avenida General San Martin,primary,1.2,Avenida principal,https://openstreetmap.org/way/966570842,"I added a footway and an alley in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-Jiquiá,San Martin,Rua Manoel Lopes de Barros,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/159257489,"I added surfaces in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-Curado,Jardim São Paulo,Avenida Getúlio Vargas,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/1099651426,Corrected/Standardized street name. #Brazil #Kaart 2024
-Curado,San Martin,Avenida Getúlio Vargas,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/1099651426,Corrected/Standardized street name. #Brazil #Kaart 2024
-Cidade Universitária,Curado,Avenida Jornalista Aníbal Fernandes,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/245730591,Specify whether roads have sidewalks
-Curado,Sancho,Avenida Getúlio Vargas,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/1099651426,Corrected/Standardized street name. #Brazil #Kaart 2024
-Curado,Cidade Universitária,Avenida Getúlio Vargas,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/1099651426,Corrected/Standardized street name. #Brazil #Kaart 2024
-Curado,Engenho do Meio,Avenida Getúlio Vargas,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/1099651426,Corrected/Standardized street name. #Brazil #Kaart 2024
-Curado,Torrões,Avenida Getúlio Vargas,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/1099651426,Corrected/Standardized street name. #Brazil #Kaart 2024
-Curado,Várzea,Avenida Getúlio Vargas,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/1099651426,Corrected/Standardized street name. #Brazil #Kaart 2024
-Cidade Universitária,Engenho do Meio,Avenida Jornalista Aníbal Fernandes,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/245730591,Specify whether roads have sidewalks
-Cidade Universitária,Várzea,Avenida Jornalista Aníbal Fernandes,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/245730591,Specify whether roads have sidewalks
-Curado,Tejipió,Avenida Getúlio Vargas,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/1099651426,Corrected/Standardized street name. #Brazil #Kaart 2024
-Curado,Totó,Avenida Getúlio Vargas,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/1099651426,Corrected/Standardized street name. #Brazil #Kaart 2024
-Cidade Universitária,Iputinga,Avenida Jornalista Aníbal Fernandes,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/245730591,Specify whether roads have sidewalks
-Engenho do Meio,Curado,Rua Antônio Borges Uchoa,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/199429423,Melhorias e Inclusão de CEP´s em Ruas conforme o CNEFE no Bairro do Recife/PE.
-Engenho do Meio,Cidade Universitária,Rua Salvador Vital,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/385648207,"Added unpaved to roads in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1070"
-Engenho do Meio,Cordeiro,Rua Antônio Borges Uchoa,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/199429423,Melhorias e Inclusão de CEP´s em Ruas conforme o CNEFE no Bairro do Recife/PE.
-Engenho do Meio,Torrões,Rua Antônio Borges Uchoa,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/199429423,Melhorias e Inclusão de CEP´s em Ruas conforme o CNEFE no Bairro do Recife/PE.
-Torrões,Curado,Rua Damasqueiro,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377691618,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Torrões,Engenho do Meio,Rua Engenho Terra do Dia,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377691617,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Torrões,San Martin,Rua Damasqueiro,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377691618,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Engenho do Meio,Iputinga,Rua Antônio Borges Uchoa,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/199429423,Melhorias e Inclusão de CEP´s em Ruas conforme o CNEFE no Bairro do Recife/PE.
-Torrões,Cordeiro,Rua Damasqueiro,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377691618,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Caxangá,Várzea,Rua Engenho Poeta,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/204618705,Aligned residential ways
-Caxangá,Iputinga,Rua Engenho Poeta,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/204618705,Aligned residential ways
-Caxangá,Apipucos,Rua Engenho Poeta,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/204618705,Aligned residential ways
-Caxangá,Dois Irmãos,Rua Engenho Poeta,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/204618705,Aligned residential ways
-Várzea,Caxangá,Rua Diogo de Vasconcelos,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/203171868,"Updated footways that are now paved roads and added traffic_signals to crossings in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1070"
-Várzea,Iputinga,Rua Diogo de Vasconcelos,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/203171868,"Updated footways that are now paved roads and added traffic_signals to crossings in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1070"
-Várzea,Curado,Rua Diogo de Vasconcelos,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/203171868,"Updated footways that are now paved roads and added traffic_signals to crossings in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1070"
-Arruda,Ponto de Parada,Rua José Austregésilo,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/151814403,Adicionado nomes de estradas e rodovias em Recife recuperadas de IBGE Map of Urban Areas. #Kaart 2019
-Arruda,Tamarineira,Rua José Austregésilo,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/151814403,Adicionado nomes de estradas e rodovias em Recife recuperadas de IBGE Map of Urban Areas. #Kaart 2019
-Várzea,Cidade Universitária,Rua Diogo de Vasconcelos,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/203171868,"Updated footways that are now paved roads and added traffic_signals to crossings in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1070"
-Arruda,Rosarinho,Rua José Austregésilo,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/151814403,Adicionado nomes de estradas e rodovias em Recife recuperadas de IBGE Map of Urban Areas. #Kaart 2019
-Arruda,Campo Grande,Rua José Austregésilo,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/151814403,Adicionado nomes de estradas e rodovias em Recife recuperadas de IBGE Map of Urban Areas. #Kaart 2019
-Arruda,Peixinhos,Rua José Austregésilo,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/151814403,Adicionado nomes de estradas e rodovias em Recife recuperadas de IBGE Map of Urban Areas. #Kaart 2019
-Arruda,Bomba do Hemetério,Rua José Austregésilo,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/151814403,Adicionado nomes de estradas e rodovias em Recife recuperadas de IBGE Map of Urban Areas. #Kaart 2019
-Caxangá,Sítio dos Pintos,Rua Engenho Poeta,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/204618705,Aligned residential ways
-Arruda,Mangabeira,Rua José Austregésilo,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/151814403,Adicionado nomes de estradas e rodovias em Recife recuperadas de IBGE Map of Urban Areas. #Kaart 2019
-Arruda,Campina do Barreto,Rua José Austregésilo,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/151814403,Adicionado nomes de estradas e rodovias em Recife recuperadas de IBGE Map of Urban Areas. #Kaart 2019
-Campo Grande,Hipódromo,Rua Manuel de Barros Lima,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/174871748,Inserindo Ceps nas Ruas do Bairro de Campo Grande em  Recife/PE Conforme o CNEFE.
-Campo Grande,Ponto de Parada,Rua Manuel de Barros Lima,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/174871748,Inserindo Ceps nas Ruas do Bairro de Campo Grande em  Recife/PE Conforme o CNEFE.
-Arruda,Água Fria,Rua José Austregésilo,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/151814403,Adicionado nomes de estradas e rodovias em Recife recuperadas de IBGE Map of Urban Areas. #Kaart 2019
-Campo Grande,Encruzilhada,Rua Manuel de Barros Lima,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/174871748,Inserindo Ceps nas Ruas do Bairro de Campo Grande em  Recife/PE Conforme o CNEFE.
-Campo Grande,Torreão,Rua Manuel de Barros Lima,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/174871748,Inserindo Ceps nas Ruas do Bairro de Campo Grande em  Recife/PE Conforme o CNEFE.
-Campo Grande,Bairro do Recife,Rua Manuel de Barros Lima,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/174871748,Inserindo Ceps nas Ruas do Bairro de Campo Grande em  Recife/PE Conforme o CNEFE.
-Campo Grande,Santo Amaro,Rua Manuel de Barros Lima,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/174871748,Inserindo Ceps nas Ruas do Bairro de Campo Grande em  Recife/PE Conforme o CNEFE.
-Campo Grande,Arruda,Rua Manuel de Barros Lima,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/174871748,Inserindo Ceps nas Ruas do Bairro de Campo Grande em  Recife/PE Conforme o CNEFE.
-Peixinhos,Arruda,Rua Colorado,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/222823534,Inserindo Cep´s nas Ruas do Bairro de Peixinhos - Recife/PE seguindo CNEFE.
-Peixinhos,Campina do Barreto,Avenida Poeta Vinicius de Morais,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/656122407,correções na Vinicius de Moraes com Professor José dos Anjos
-Cordeiro,Prado,Rua Eurico de Souza Leão,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/966270822,"Modified surfaces in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-Cordeiro,Engenho do Meio,Rua Professor Evaldo Altino,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377691612,"Added unpaved to roads in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1070"
-Cordeiro,San Martin,Rua Eurico de Souza Leão,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/966270822,"Modified surfaces in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-Campo Grande,Peixinhos,Rua Oliveira Fonseca,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/174872346,Criando várias das relações para o PDC/RMR
-Peixinhos,Campo Grande,Rua Colorado,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/222823534,Inserindo Cep´s nas Ruas do Bairro de Peixinhos - Recife/PE seguindo CNEFE.
-Cordeiro,Torre,Rua Eurico de Souza Leão,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/966270822,"Modified surfaces in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-Cordeiro,Torrões,Rua Professor Evaldo Altino,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377691612,"Added unpaved to roads in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1070"
-Cordeiro,Zumbi,Rua Eurico de Souza Leão,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/966270822,"Modified surfaces in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-Cordeiro,Iputinga,Rua Professor Evaldo Altino,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377691612,"Added unpaved to roads in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1070"
-Cordeiro,Poço da Panela,Rua Professor Evaldo Altino,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377691612,"Added unpaved to roads in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1070"
-Cordeiro,Santana,Rua Eurico de Souza Leão,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/966270822,"Modified surfaces in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-Madalena,Graças,Rua José Osório,primary,1.2,Avenida principal,https://openstreetmap.org/way/772547583,asfalto
-Madalena,Derby,Rua Real da Torre,primary,1.2,Avenida principal,https://openstreetmap.org/way/821123749,Specify road smoothness
-Madalena,Torre,Rua José Osório,primary,1.2,Avenida principal,https://openstreetmap.org/way/772547583,asfalto
-Madalena,Ilha do Retiro,Rua Real da Torre,primary,1.2,Avenida principal,https://openstreetmap.org/way/821123749,Specify road smoothness
-Madalena,Paissandu,Rua Real da Torre,primary,1.2,Avenida principal,https://openstreetmap.org/way/821123749,Specify road smoothness
-Madalena,Prado,Rua Real da Torre,primary,1.2,Avenida principal,https://openstreetmap.org/way/821123749,Specify road smoothness
-Torre,Graças,Rua Professor Trajano de Mendonça,primary,1.2,Avenida principal,https://openstreetmap.org/way/129894857,Specify road smoothness
-Torre,Jaqueira,Rua José Bonifácio,primary,1.2,Avenida principal,https://openstreetmap.org/way/967665648,"Colocando tag de pista dupla nas vias do Plano Diretor Cicloviário, além de pequenas adições de vias em relaçeõs."
-Torre,Cordeiro,Rua Professor Trajano de Mendonça,primary,1.2,Avenida principal,https://openstreetmap.org/way/129894857,Specify road smoothness
-Torre,Madalena,Rua Professor Trajano de Mendonça,primary,1.2,Avenida principal,https://openstreetmap.org/way/129894857,Specify road smoothness
-Madalena,Zumbi,Rua José Osório,primary,1.2,Avenida principal,https://openstreetmap.org/way/772547583,asfalto
-Torre,Zumbi,Rua Professor Trajano de Mendonça,primary,1.2,Avenida principal,https://openstreetmap.org/way/129894857,Specify road smoothness
-Torre,Santana,Rua José Bonifácio,primary,1.2,Avenida principal,https://openstreetmap.org/way/967665648,"Colocando tag de pista dupla nas vias do Plano Diretor Cicloviário, além de pequenas adições de vias em relaçeõs."
-Zumbi,Prado,Avenida Caxangá,primary,1.2,Avenida principal,https://openstreetmap.org/way/314754243,"Colocando tag de pista dupla nas vias do Plano Diretor Cicloviário, além de pequenas adições de vias em relaçeõs."
-Zumbi,Cordeiro,Rua Frei Teófilo de Virgoleta,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/158619076,"Modified lanes and removed duplicate alt_name on roads in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-Zumbi,Torre,Rua Frei Teófilo de Virgoleta,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/158619076,"Modified lanes and removed duplicate alt_name on roads in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1068"
-Zumbi,Madalena,Avenida Caxangá,primary,1.2,Avenida principal,https://openstreetmap.org/way/314754243,"Colocando tag de pista dupla nas vias do Plano Diretor Cicloviário, além de pequenas adições de vias em relaçeõs."
-Santana,Cordeiro,Rua Amaraji,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/198106072,Aligned existing residential ways
-Santana,Torre,Rua Amaraji,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/198106072,Aligned existing residential ways
-Santana,Parnamirim,Rua Amaraji,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/198106072,Aligned existing residential ways
-Santana,Casa Forte,Rua Samuel Farias,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/198106073,Specify surfaces
-Santana,Poço da Panela,Rua Samuel Farias,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/198106073,Specify surfaces
-Santana,Jaqueira,Rua Amaraji,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/198106072,Aligned existing residential ways
-Alto José do Pinho,Casa Amarela,Rua Ori,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/475322300,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Alto José do Pinho,Morro da Conceição,Rua Ori,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/475322300,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Alto José do Pinho,Bomba do Hemetério,Rua Ori,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/475322300,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Alto José do Pinho,Alto Santa Teresinha,Rua Ori,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/475322300,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Alto José do Pinho,Mangabeira,Rua Ori,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/475322300,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Alto do Mandu,Casa Amarela,Rua Eliete Aguiar,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/662043286,Correção nome do logradouro conforme Prefeitura do Recife.
-Alto do Mandu,Macaxeira,Rua Eliete Aguiar,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/662043286,Correção nome do logradouro conforme Prefeitura do Recife.
-Alto José do Pinho,Alto José Bonifácio,Rua Ori,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/475322300,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Alto do Mandu,Monteiro,Rua Eliete Aguiar,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/662043286,Correção nome do logradouro conforme Prefeitura do Recife.
-Alto do Mandu,Nova Descoberta,Rua Eliete Aguiar,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/662043286,Correção nome do logradouro conforme Prefeitura do Recife.
-Casa Amarela,Tamarineira,Rua Padre Lemos,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/857404860,Inclusão de Faixa de Pedestres no centro do Recife-PE.
-Alto do Mandu,Apipucos,Rua Eliete Aguiar,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/662043286,Correção nome do logradouro conforme Prefeitura do Recife.
-Casa Amarela,Alto José do Pinho,Rua Taquaratinga,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/199434688,"Added lanes and adjusted classifications in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1069"
-Casa Amarela,Alto do Mandu,Rua Padre Lemos,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/966515387,ruas ciclaveis
-Casa Amarela,Casa Forte,Rua Padre Lemos,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/857404860,Inclusão de Faixa de Pedestres no centro do Recife-PE.
-Casa Amarela,Monteiro,Rua Padre Lemos,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/966515387,ruas ciclaveis
-Casa Amarela,Morro da Conceição,Rua Taquaratinga,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/199434688,"Added lanes and adjusted classifications in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1069"
-Casa Amarela,Parnamirim,Rua Padre Lemos,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/857404860,Inclusão de Faixa de Pedestres no centro do Recife-PE.
-Casa Amarela,Mangabeira,Rua Taquaratinga,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/199434688,"Added lanes and adjusted classifications in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1069"
-Casa Amarela,Nova Descoberta,Rua Padre Lemos,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/966515387,ruas ciclaveis
-Casa Amarela,Vasco da Gama,Rua Padre Lemos,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/966515387,ruas ciclaveis
-Casa Forte,Santana,Rua de Casa Forte,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/197960569,resolvido aviso de problema de pontos sobrepostos
-Casa Forte,Casa Amarela,Rua de Casa Forte,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/197960569,resolvido aviso de problema de pontos sobrepostos
-Casa Forte,Parnamirim,Rua Jerônimo de Albuquerque,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/197960452,ruas ciclaveis
-Casa Forte,Poço da Panela,Rua de Casa Forte,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/197960569,resolvido aviso de problema de pontos sobrepostos
-Casa Amarela,Poço da Panela,Rua Padre Lemos,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/857404860,Inclusão de Faixa de Pedestres no centro do Recife-PE.
-Iputinga,Cidade Universitária,Rua Alagoana,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/199674086,Inserindo Ceps de Ruas no Bairro da Iputinga - Recife/PE Conforme CNEFE.
-Iputinga,Caxangá,Rua Alagoana,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/199674086,Inserindo Ceps de Ruas no Bairro da Iputinga - Recife/PE Conforme CNEFE.
-Iputinga,Engenho do Meio,Rua Alagoana,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/199674086,Inserindo Ceps de Ruas no Bairro da Iputinga - Recife/PE Conforme CNEFE.
-Iputinga,Cordeiro,Rua Alagoana,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/199674086,Inserindo Ceps de Ruas no Bairro da Iputinga - Recife/PE Conforme CNEFE.
-Iputinga,Monteiro,Rua Doutor Virgínio Marquês,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/199674085,"Adicionei os nomes de ruas e rodovias em Palmas, recolhei do mapa IBGE. #Kaart 2019."
-Iputinga,Várzea,Rua Alagoana,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/199674086,Inserindo Ceps de Ruas no Bairro da Iputinga - Recife/PE Conforme CNEFE.
-Monteiro,Alto do Mandu,Rua Muniz Galvão,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377690559,"Removed a duplicate node and alt_names that were the same as the name in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1069"
-Iputinga,Poço da Panela,Rua Doutor Virgínio Marquês,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/199674085,"Adicionei os nomes de ruas e rodovias em Palmas, recolhei do mapa IBGE. #Kaart 2019."
-Monteiro,Casa Amarela,Rua Muniz Galvão,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377690559,"Removed a duplicate node and alt_names that were the same as the name in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1069"
-Monteiro,Iputinga,Rua Muniz Galvão,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377690559,"Removed a duplicate node and alt_names that were the same as the name in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1069"
-Monteiro,Poço da Panela,Rua Muniz Galvão,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377690559,"Removed a duplicate node and alt_names that were the same as the name in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1069"
-Monteiro,Apipucos,Rua Muniz Galvão,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377690559,"Removed a duplicate node and alt_names that were the same as the name in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1069"
-Morro da Conceição,Casa Amarela,Rua I tabaiana,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/1088315864,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Iputinga,Apipucos,Rua Doutor Virgínio Marquês,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/199674085,"Adicionei os nomes de ruas e rodovias em Palmas, recolhei do mapa IBGE. #Kaart 2019."
-Morro da Conceição,Alto José do Pinho,Rua I tabaiana,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/1088315864,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Morro da Conceição,Vasco da Gama,Rua I tabaiana,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/1088315864,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Parnamirim,Jaqueira,Avenida Parnamirim,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/857404852,Specify road smoothness
-Morro da Conceição,Alto José Bonifácio,Rua I tabaiana,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/1088315864,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Parnamirim,Casa Forte,Avenida Parnamirim,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/857404852,Specify road smoothness
-Parnamirim,Tamarineira,Avenida Parnamirim,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/857404852,Specify road smoothness
-Parnamirim,Santana,Avenida Parnamirim,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/857404852,Specify road smoothness
-Poço da Panela,Santana,Rua Paulo Inojosa,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/378512915,Determine roads lane count
-Parnamirim,Casa Amarela,Avenida Parnamirim,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/857404852,Specify road smoothness
-Poço da Panela,Cordeiro,Rua dos Arcos,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/246171366,Specify speed limits
-Poço da Panela,Casa Forte,Rua dos Arcos,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/246171366,Specify speed limits
-Poço da Panela,Casa Amarela,Rua dos Arcos,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/246171366,Specify speed limits
-Poço da Panela,Iputinga,Rua dos Arcos,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/246171366,Specify speed limits
-Beberibe,Linha do Tiro,Rua Taguatinga,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/317313994,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Poço da Panela,Monteiro,Rua dos Arcos,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/246171366,Specify speed limits
-Beberibe,Porto da Madeira,Rua Taguatinga,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/317313994,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Beberibe,Água Fria,Rua Taguatinga,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/317313994,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Beberibe,Dois Unidos,Rua Taguatinga,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/317313994,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Bomba do Hemetério,Arruda,Rua São Gabriel,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377682940,Melhorias na Bomba do Hemetério
-Bomba do Hemetério,Mangabeira,Rua São Gabriel,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377682940,Melhorias na Bomba do Hemetério
-Bomba do Hemetério,Alto Santa Teresinha,Rua São Gabriel,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377682940,Melhorias na Bomba do Hemetério
-Bomba do Hemetério,Alto José do Pinho,Rua São Gabriel,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377682940,Melhorias na Bomba do Hemetério
-Cajueiro,Campina do Barreto,Rua Couto Soares,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/142635680,Melhorias em Cajueiro
-Cajueiro,Fundão,Rua Couto Soares,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/476724740,Inserindo Cep´s nas Ruas do Bairro de Cajueiro em Recife/PE seguindo CNEFE
-Bomba do Hemetério,Água Fria,Rua São Gabriel,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377682940,Melhorias na Bomba do Hemetério
-Cajueiro,Porto da Madeira,Rua Maria Ramos,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/142635677,Inserindo Cep´s nas Ruas do Bairro de Cajueiro em Recife/PE seguindo CNEFE
-Campina do Barreto,Peixinhos,Rua dos Peixinhos,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/142637688,"Adjusted geometry and added footways in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1066"
-Campina do Barreto,Arruda,Rua Iguatu,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/166897918,Inserido nome Rua A
-Campina do Barreto,Água Fria,Rua Iguatu,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/166897918,Inserido nome Rua A
-Fundão,Cajueiro,Avenida Beberibe,primary,1.2,Avenida principal,https://openstreetmap.org/way/151272934,"Added lanes and a crossing in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1069"
-Campina do Barreto,Cajueiro,Rua Iguatu,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/166897918,Inserido nome Rua A
-Campina do Barreto,Fundão,Rua Iguatu,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/166897918,Inserido nome Rua A
-Fundão,Porto da Madeira,Avenida Beberibe,primary,1.2,Avenida principal,https://openstreetmap.org/way/151272934,"Added lanes and a crossing in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1069"
-Fundão,Campina do Barreto,Avenida Beberibe,primary,1.2,Avenida principal,https://openstreetmap.org/way/151272934,"Added lanes and a crossing in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1069"
-Linha do Tiro,Alto Santa Teresinha,Rua Santa Mercedes,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/222819886,Improved the alignment of secondary and residential ways
-Fundão,Água Fria,Avenida Beberibe,primary,1.2,Avenida principal,https://openstreetmap.org/way/151272934,"Added lanes and a crossing in Recife, Brazil. #Kaart Ground Survey 2021 #Kaart-1069"
-Linha do Tiro,Beberibe,Rua Santa Mercedes,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/222819886,Improved the alignment of secondary and residential ways
-Linha do Tiro,Alto José Bonifácio,Rua Santa Mercedes,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/222819886,Improved the alignment of secondary and residential ways
-Linha do Tiro,Água Fria,Rua Santa Mercedes,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/222819886,Improved the alignment of secondary and residential ways
-Linha do Tiro,Dois Unidos,Rua Santa Mercedes,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/222819886,Improved the alignment of secondary and residential ways
-Mangabeira,Arruda,Rua Azurita,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/908353852,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Mangabeira,Tamarineira,Rua Azurita,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/908353852,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Linha do Tiro,Brejo de Beberibe,Rua Rio Igarapé,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/222819876,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Mangabeira,Bomba do Hemetério,Rua Azurita,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/908353852,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Mangabeira,Alto José do Pinho,Rua Azurita,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/908353852,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Porto da Madeira,Fundão,Rua Belo Horizonte,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/144181860,melhorias
-Porto da Madeira,Beberibe,Rua Belo Horizonte,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/144181860,melhorias
-Porto da Madeira,Cajueiro,Rua Belo Horizonte,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/144181860,melhorias
-Mangabeira,Casa Amarela,Rua Azurita,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/908353852,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Porto da Madeira,Água Fria,Rua Belo Horizonte,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/144181860,melhorias
-Alto Santa Teresinha,Alto José do Pinho,Rua Aurea,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377682920,Created residential ways and improved the alignment of exsisting residential  ways
-Alto Santa Teresinha,Linha do Tiro,Rua Andricora,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/650415140,Added road names and highways in Recife retrieved from IBGE Map of Urban Areas. #Kaart 2018
-Alto Santa Teresinha,Alto José Bonifácio,Rua Andricora,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/650415140,Added road names and highways in Recife retrieved from IBGE Map of Urban Areas. #Kaart 2018
-Alto Santa Teresinha,Bomba do Hemetério,Rua Andricora,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/650415140,Added road names and highways in Recife retrieved from IBGE Map of Urban Areas. #Kaart 2018
-Água Fria,Campina do Barreto,Rua Luiz Cerqueira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377680563,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Água Fria,Bomba do Hemetério,Rua Luiz Cerqueira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377680563,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Alto Santa Teresinha,Água Fria,Rua Andricora,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/650415140,Added road names and highways in Recife retrieved from IBGE Map of Urban Areas. #Kaart 2018
-Água Fria,Arruda,Rua Luiz Cerqueira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377680563,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Água Fria,Beberibe,Rua Luiz Cerqueira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377680563,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Água Fria,Fundão,Rua Luiz Cerqueira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377680563,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Água Fria,Linha do Tiro,Rua Luiz Cerqueira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377680563,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Água Fria,Porto da Madeira,Rua Luiz Cerqueira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377680563,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Alto José Bonifácio,Alto Santa Teresinha,Rua Tejipio,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/774651319,#maproulette #AtlasChecks: Brazil - Connectivity Check / Conectividade rodoviária #kaart  #Brazil  #2022
-Alto José Bonifácio,Morro da Conceição,Rua São Domingos Sávio,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/326426273,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Córrego do Jenipapo,Nova Descoberta,Rua dos Coquinhos,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/243409581,Modified the alignment of residential and tertiary ways
-Alto José Bonifácio,Vasco da Gama,Rua São Domingos Sávio,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/326426273,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Alto José Bonifácio,Brejo de Beberibe,Rua São Domingos Sávio,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/326426273,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Água Fria,Alto Santa Teresinha,Rua Luiz Cerqueira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377680563,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Córrego do Jenipapo,Macaxeira,Rua dos Coquinhos,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/243409581,Modified the alignment of residential and tertiary ways
-Alto José Bonifácio,Alto José do Pinho,Rua São Domingos Sávio,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/326426273,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Alto José Bonifácio,Linha do Tiro,Rua Tejipio,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/774651319,#maproulette #AtlasChecks: Brazil - Connectivity Check / Conectividade rodoviária #kaart  #Brazil  #2022
-Córrego do Jenipapo,Apipucos,Rua dos Coquinhos,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/243409581,Modified the alignment of residential and tertiary ways
-Córrego do Jenipapo,Dois Irmãos,Rua dos Coquinhos,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/243409581,Modified the alignment of residential and tertiary ways
-Córrego do Jenipapo,Brejo da Guabiraba,Rua dos Coquinhos,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/243409581,Modified the alignment of residential and tertiary ways
-Córrego do Jenipapo,Guabiraba,Rua dos Coquinhos,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/243409581,Modified the alignment of residential and tertiary ways
-Macaxeira,Alto do Mandu,Rua Maria Cândida,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/243741218,"inclusão de area verde, correção de caminho, inclusão de casas no bairro do corrego do jenipapo, recife/PE #UMBRAOSM #Mapatona #SenamaSoftwarelivreBrasil2024"
-Macaxeira,Córrego do Jenipapo,Rua Maria Cândida,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/243741218,"inclusão de area verde, correção de caminho, inclusão de casas no bairro do corrego do jenipapo, recife/PE #UMBRAOSM #Mapatona #SenamaSoftwarelivreBrasil2024"
-Macaxeira,Nova Descoberta,Rua Nova Iguaçu,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/222816832,Modified the alignment of residential and tertiary ways
-Macaxeira,Apipucos,Rua Maria Cândida,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/243741218,"inclusão de area verde, correção de caminho, inclusão de casas no bairro do corrego do jenipapo, recife/PE #UMBRAOSM #Mapatona #SenamaSoftwarelivreBrasil2024"
-Nova Descoberta,Macaxeira,Rua Alto da Brasileira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377690522,"#hotosm-project-17634 Mapeamento de Edifícios, Estradas e Área Verdes #MovimentoSoftwareLivre2024 #UmbraOsm #colaborativas"
-Nova Descoberta,Alto do Mandu,Rua Alto da Brasileira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377690522,"#hotosm-project-17634 Mapeamento de Edifícios, Estradas e Área Verdes #MovimentoSoftwareLivre2024 #UmbraOsm #colaborativas"
-Nova Descoberta,Casa Amarela,Rua Alto da Brasileira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377690522,"#hotosm-project-17634 Mapeamento de Edifícios, Estradas e Área Verdes #MovimentoSoftwareLivre2024 #UmbraOsm #colaborativas"
-Nova Descoberta,Córrego do Jenipapo,Rua Alto da Brasileira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377690522,"#hotosm-project-17634 Mapeamento de Edifícios, Estradas e Área Verdes #MovimentoSoftwareLivre2024 #UmbraOsm #colaborativas"
-Nova Descoberta,Vasco da Gama,Rua Alto da Brasileira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377690522,"#hotosm-project-17634 Mapeamento de Edifícios, Estradas e Área Verdes #MovimentoSoftwareLivre2024 #UmbraOsm #colaborativas"
-Nova Descoberta,Brejo da Guabiraba,Rua Alto da Brasileira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377690522,"#hotosm-project-17634 Mapeamento de Edifícios, Estradas e Área Verdes #MovimentoSoftwareLivre2024 #UmbraOsm #colaborativas"
-Nova Descoberta,Brejo de Beberibe,Rua Alto da Brasileira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/377690522,"#hotosm-project-17634 Mapeamento de Edifícios, Estradas e Área Verdes #MovimentoSoftwareLivre2024 #UmbraOsm #colaborativas"
-Vasco da Gama,Casa Amarela,Rua Santa Maria Goretti,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/222819875,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Vasco da Gama,Morro da Conceição,Rua Santa Maria Goretti,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/222819875,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Vasco da Gama,Brejo de Beberibe,Rua Santa Maria Goretti,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/222819875,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Vasco da Gama,Nova Descoberta,Rua Santa Maria Goretti,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/222819875,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Vasco da Gama,Alto José Bonifácio,Rua Santa Maria Goretti,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/222819875,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Apipucos,Monteiro,Rua Jorge Tasso Neto,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/203167206,Specify surfaces
-Apipucos,Iputinga,Rua Jorge Tasso Neto,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/203167206,Specify surfaces
-Apipucos,Caxangá,Rua Jorge Tasso Neto,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/203167206,Specify surfaces
-Apipucos,Alto do Mandu,Rua Jorge Tasso Neto,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/203167206,Specify surfaces
-Apipucos,Córrego do Jenipapo,Rua Jorge Tasso Neto,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/203167206,Specify surfaces
-Apipucos,Dois Irmãos,Rua Jorge Tasso Neto,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/203167206,Specify surfaces
-Apipucos,Macaxeira,Rua Jorge Tasso Neto,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/203167206,Specify surfaces
-Dois Irmãos,Caxangá,Rua Professor Cláudio Selva,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/466145232,Melhorias
-Dois Irmãos,Córrego do Jenipapo,Rua Professor Cláudio Selva,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/466145232,Melhorias
-Sítio dos Pintos,Caxangá,Estrada dos Pintos,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/807233403,Correção nome do logradouro conforme Prefeitura do Recife.
-Dois Irmãos,Sítio dos Pintos,Rua Professor Cláudio Selva,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/466145232,Melhorias
-Dois Irmãos,Apipucos,Rua Professor Cláudio Selva,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/466145232,Melhorias
-Brejo da Guabiraba,Córrego do Jenipapo,Rua Arca de Noe,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/776574491,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Sítio dos Pintos,Dois Irmãos,Estrada dos Pintos,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/807233403,Correção nome do logradouro conforme Prefeitura do Recife.
-Sítio dos Pintos,Guabiraba,Estrada dos Pintos,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/807233403,Correção nome do logradouro conforme Prefeitura do Recife.
-Brejo da Guabiraba,Nova Descoberta,Rua Arca de Noe,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/776574491,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Brejo da Guabiraba,Brejo de Beberibe,Rua Arca de Noe,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/776574491,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Brejo da Guabiraba,Passarinho,Rua Arca de Noe,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/776574491,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Dois Irmãos,Guabiraba,Rua Professor Cláudio Selva,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/466145232,Melhorias
-Brejo da Guabiraba,Guabiraba,Rua Arca de Noe,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/776574491,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Brejo de Beberibe,Linha do Tiro,Avenida Vereador Otacílio Azevedo,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/1339825498,Correção de velocidade de acordo com a sinalização em 2024 e código de trânsito.
-Brejo de Beberibe,Vasco da Gama,Avenida Vereador Otacílio Azevedo,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/1339825498,Correção de velocidade de acordo com a sinalização em 2024 e código de trânsito.
-Brejo de Beberibe,Nova Descoberta,Avenida Vereador Otacílio Azevedo,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/1339825498,Correção de velocidade de acordo com a sinalização em 2024 e código de trânsito.
-Brejo de Beberibe,Alto José Bonifácio,Avenida Vereador Otacílio Azevedo,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/1339825498,Correção de velocidade de acordo com a sinalização em 2024 e código de trânsito.
-Brejo de Beberibe,Dois Unidos,Avenida Vereador Otacílio Azevedo,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/1339825498,Correção de velocidade de acordo com a sinalização em 2024 e código de trânsito.
-Brejo de Beberibe,Brejo da Guabiraba,Avenida Vereador Otacílio Azevedo,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/1339825498,Correção de velocidade de acordo com a sinalização em 2024 e código de trânsito.
-Dois Unidos,Linha do Tiro,Avenida Hildebrando de Vasconcelos,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/857404822,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Brejo de Beberibe,Passarinho,Avenida Vereador Otacílio Azevedo,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/1339825498,Correção de velocidade de acordo com a sinalização em 2024 e código de trânsito.
-Dois Unidos,Beberibe,Avenida Hildebrando de Vasconcelos,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/857404822,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Dois Unidos,Brejo de Beberibe,Avenida Hildebrando de Vasconcelos,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/857404822,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Dois Unidos,Passarinho,Avenida Hildebrando de Vasconcelos,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/857404822,Inclusion of Street Names in the City of Recife/PE - Brasil - #kaart #2022 #Brasil  #maproulette
-Passarinho,Brejo da Guabiraba,Avenida Chagas Ferreira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/222822287,Inclusion of Street Names in Cities and Towns in Brazil. - #Maproulette #kaart #2022 #Brazil #maproulette
-Passarinho,Brejo de Beberibe,Avenida Chagas Ferreira,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/222822287,Inclusion of Street Names in Cities and Towns in Brazil. - #Maproulette #kaart #2022 #Brazil #maproulette
-Passarinho,Dois Unidos,Rua Vargem linda,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/766881851,Inclusion of Street Names in Cities and Towns in Brazil. - #Maproulette #kaart #2022 #Brazil #maproulette
-Passarinho,Guabiraba,Rua Vargem linda,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/766881851,Inclusion of Street Names in Cities and Towns in Brazil. - #Maproulette #kaart #2022 #Brazil #maproulette
-Guabiraba,Córrego do Jenipapo,Estrada da Mumbeca,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/772408731,Correção de velocidade de acordo com a sinalização e Código de trânsito
-Guabiraba,Brejo da Guabiraba,Estrada da Mumbeca,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/772408731,Correção de velocidade de acordo com a sinalização e Código de trânsito
-Guabiraba,Pau-Ferro,Estrada da Mumbeca,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/1151055913,Atualização do limite de velocidade conforme a sinalização
-Guabiraba,Passarinho,Estrada da Mumbeca,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/772408731,Correção de velocidade de acordo com a sinalização e Código de trânsito
-Guabiraba,Dois Irmãos,Estrada da Mumbeca,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/772408731,Correção de velocidade de acordo com a sinalização e Código de trânsito
-Guabiraba,Sítio dos Pintos,Estrada da Mumbeca,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/772408731,Correção de velocidade de acordo com a sinalização e Código de trânsito
-Pau-Ferro,Guabiraba,Rua Evaristo da Veiga,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/713731326,correction of the addr:street tag used in roads and streets wrongly in the city of Recife - Pernambuco - Brazil. #kaart #2021 #Brazil.
-Pau-Ferro,Aldeia,Rua Evaristo da Veiga,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/713731326,correction of the addr:street tag used in roads and streets wrongly in the city of Recife - Pernambuco - Brazil. #kaart #2021 #Brazil.
-Aldeia,Pau-Ferro,Estrada da Mumbeca,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/48002102,Created residential way near Rua Joaquim Matoso #adt
-Aldeia,Oitenta,Estrada da Mumbeca,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/48002102,Created residential way near Rua Joaquim Matoso #adt
-Oitenta,Aldeia,Rua Assis Brasil,residential,2.0,Rua local / de bairro	,https://openstreetmap.org/way/868131825,Melhorias em Camaragibe. Adicionado parte da linha municipal C06 Oitenta - Santana
+Bairro,Vizinho,Logradouro,Tipo,Peso,Tipo Normalizado,Id Rua
+Aflitos,Rosarinho,Rua Manuel de Carvalho,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/134174443
+Aflitos,Encruzilhada,Rua Teles Júnior,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/134167460
+Aflitos,Espinheiro,Rua Gomes de Matos Júnior,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/134167725
+Aflitos,Graças,Rua Samuel Campelo,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/966042500
+Jaqueira,Tamarineira,Rua Neto de Mendonça,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/965984036
+Jaqueira,Graças,Avenida Conselheiro Rosa e Silva,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/475660026
+Jaqueira,Torre,Rua Hoel Sette,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/134174571
+Jaqueira,Santana,Rua do Futuro,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/316587817
+Jaqueira,Parnamirim,Estrada do Arraial,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/134179603
+Hipódromo,Ponto de Parada,Rua Fonseca Oliveira,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/151261446
+Hipódromo,Encruzilhada,Rua Carlos Fernandes,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/140478431
+Hipódromo,Campo Grande,Rua Prudente de Morais,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/151161332
+Ponto de Parada,Rosarinho,Rua Couto Magalhães,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/140479112
+Ponto de Parada,Encruzilhada,Avenida Beberibe,primary,1.2,Avenida principal,https://openstreetmap.org/way/967668775
+Ponto de Parada,Arruda,Rua José Austregésilo,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/151814403
+Ponto de Parada,Campo Grande,Rua Mem de Sá,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/967668776
+Rosarinho,Tamarineira,Rua Regueira Costa,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/134170995
+Rosarinho,Encruzilhada,Rua André Rebouças,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/135319063
+Rosarinho,Graças,Rua Desembargador Martins Pereira,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/134170998
+Rosarinho,Arruda,Avenida Norte Miguel Arraes de Alencar,primary,1.2,Avenida principal,https://openstreetmap.org/way/305934832
+Tamarineira,Graças,Rua Cônego Barata,primary_link,1.2,Avenida principal,https://openstreetmap.org/way/241530799
+Tamarineira,Arruda,Estrada Velha de Água Fria,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/966016819
+Tamarineira,Casa Amarela,Rua Jundiá,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/372983459
+Tamarineira,Parnamirim,Rua Ibiapaba,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/165785931
+Tamarineira,Mangabeira,Avenida Professor José dos Anjos,primary,1.2,Avenida principal,https://openstreetmap.org/way/836834976
+Encruzilhada,Espinheiro,Avenida João de Barros,primary,1.2,Avenida principal,https://openstreetmap.org/way/311928926
+Encruzilhada,Graças,Rua Conselheiro Portela,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/967950985
+Encruzilhada,Torreão,Rua da Coragem,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/609810648
+Encruzilhada,Campo Grande,Rua Retiro Saudoso,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/140478430
+Espinheiro,Graças,Rua da Hora,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/133334731
+Espinheiro,Torreão,Rua Marquês do Paraná,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/144474968
+Espinheiro,Santo Amaro,Rua Quarenta e Oito,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/704220891
+Espinheiro,Boa Vista,Rua do Príncipe,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/128146229
+Graças,Boa Vista,Rua Amélia,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/967962393
+Graças,Derby,Rua João Ramos,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/319481727
+Graças,Madalena,Rua Bruno Maia,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/135721896
+Graças,Torre,Rua Antônio Novais,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/927715995
+Torreão,Santo Amaro,Rua Othon Paraíso,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/128219448
+Torreão,Campo Grande,Rua Cândido Lacerda,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/128218928
+Joana Bezerra,Coelhos,Rua Braço do Norte,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/255536611
+Joana Bezerra,Ilha do Leite,Rua Bahia Formosa,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/255536605
+Joana Bezerra,Paissandu,Rua Ubaitaba,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/255536651
+Joana Bezerra,Afogados,Rua Cambuí,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/255536616
+Joana Bezerra,Ilha do Retiro,Rua Jaraguari,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/662615609
+Bairro do Recife,Santo Amaro,Rua Álvares Cabral,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/51816239
+Bairro do Recife,Santo Antônio,Rua Madre de Deus,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/1231083445
+Bairro do Recife,Campo Grande,Rua do Apolo,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/358981364
+Santo Amaro,Boa Vista,Avenida da Saudade,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/128161935
+Santo Amaro,Santo Antônio,Avenida Cruz Cabugá,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/582585083
+Santo Amaro,Soledade,Rua Coelho Leite,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/132055216
+Santo Amaro,Campo Grande,Rua Treze de Maio,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/762962430
+Boa Vista,Coelhos,Rua Rosário da Boa Vista,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/656119805
+Boa Vista,Derby,Avenida Manoel Borba,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/1183974130
+Boa Vista,Ilha do Leite,Rua Gervásio Pires,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/316218104
+Boa Vista,Paissandu,Rua Barão de São Borja,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/320212004
+Boa Vista,Santo Antônio,Rua da Soledade,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/129728885
+Boa Vista,Soledade,Rua da Soledade,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/129728885
+Coelhos,Ilha do Leite,Rua Júlio Bernardo,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/367543798
+Coelhos,Santo Antônio,Rua Padopolis,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/367543812
+Derby,Paissandu,Rua Barão de Goiana,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/132901896
+Derby,Ilha do Retiro,Praça do Derby,primary,1.2,Avenida principal,https://openstreetmap.org/way/383915969
+Derby,Madalena,Avenida Governador Agamenon Magalhães,trunk,1.0,Via arterial / Rodovia urbana,https://openstreetmap.org/way/966837057
+Ilha do Leite,Paissandu,Rua Estado de Israel,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/129178018
+Paissandu,Ilha do Retiro,Avenida Portugal,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/656120186
+Paissandu,Madalena,Rua Paissandú,trunk,1.0,Via arterial / Rodovia urbana,https://openstreetmap.org/way/314754263
+Afogados,Bongi,Rua Doutor Adelino,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/137186687
+Afogados,Ilha do Retiro,Rua Ursulino Pinto de Carvalho,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/137186697
+Afogados,Mangueira,Rua Cosme Viana,primary,1.2,Avenida principal,https://openstreetmap.org/way/854786907
+Afogados,Mustardinha,Rua Vinte e Um de Abril,primary,1.2,Avenida principal,https://openstreetmap.org/way/1184099726
+Afogados,Prado,Rua Manuel Batista de Azevedo,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/137186650
+Afogados,Pina,Estrada dos Remédios,primary,1.2,Avenida principal,https://openstreetmap.org/way/129812361
+Afogados,Imbiribeira,Rua Itatiuba,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/140090259
+Afogados,Jiquiá,Rua Visconde de Inhaúma,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/650850353
+Bongi,Mustardinha,Rua Randolfo Pinto Ferreira,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/192027730
+Bongi,Prado,Rua Pio Muniz de Farias,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/192029323
+Bongi,San Martin,Rua Aparecida de Minas,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/192027514
+Brasília Teimosa,Pina,Rua Atum,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/647079907
+Ilha do Retiro,Prado,Rua João Elísio Ramos,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/129813358
+Ilha do Retiro,Madalena,Rua Astorga,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/136126331
+Mangueira,Mustardinha,Rua Benício Dias,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/377691658
+Mangueira,Jiquiá,Rua Mandari,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/160314020
+Mangueira,San Martin,Rua Doutor Arsênio Tavares,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/222815815
+Mustardinha,San Martin,Rua Francisca Benigna Cavalcanti,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/192025811
+Prado,San Martin,Rua Carlos Gomes,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/318738696
+Prado,Cordeiro,Rua Gervásio Campelo,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/775975800
+Prado,Madalena,Rua Rodrigues de Mendonça,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/137744269
+Prado,Zumbi,Rua Manoel de Arruda Câmara,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/223532632
+Boa Viagem,Jordão,Rua Ribeiro de Brito,primary,1.2,Avenida principal,https://openstreetmap.org/way/854994655
+Boa Viagem,Pina,Avenida Hélio Falcão,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/968896542
+Boa Viagem,Ibura,Viaduto Tacredo Neves,primary,1.2,Avenida principal,https://openstreetmap.org/way/707010088
+Boa Viagem,Imbiribeira,Avenida Marechal Mascarenhas de Moraes,trunk,1.0,Via arterial / Rodovia urbana,https://openstreetmap.org/way/707010074
+Cohab,Jordão,Avenida Mato Grosso,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/222712034
+Cohab,Barro,Rua Rio Turiaçu,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/222689021
+Cohab,Ibura,Rua Sítio dos Moreiras,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/595526751
+Jordão,Ibura,Rua Junqueiro,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/161828581
+Pina,Imbiribeira,Rua Manoel de Brito,primary,1.2,Avenida principal,https://openstreetmap.org/way/624935364
+Barro,Tejipió,Avenida Doutor José Rufino,primary,1.2,Avenida principal,https://openstreetmap.org/way/30811055
+Barro,Areias,Rua Dorothéia Vieira,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/222795593
+Barro,Ibura,Travessa Doutor Jose Rufino,trunk_link,1.0,Via arterial / Rodovia urbana,https://openstreetmap.org/way/30811087
+Barro,Jardim São Paulo,Rua Major Chagas de Oliveira,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/30811075
+Coqueiral,Sancho,Rua Doutor José Cornélio,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/316877404
+Coqueiral,Tejipió,Rua Quinze de Novembro,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/636857005
+Coqueiral,Totó,Rua Guanabara,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/221640528
+Sancho,Tejipió,Rua Doutor Urbano Vitalino de Melo Filho,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/336107567
+Sancho,Totó,Rua Josita Almeida,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/336107559
+Sancho,Curado,Rua Morena Flor,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/245637984
+Tejipió,Jardim São Paulo,Rua Itanhenga,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/792115831
+Tejipió,Curado,Rua do Sancho,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/244903009
+Totó,Curado,Rua Juvêncio Marques da Cunha,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/221641871
+Caçote,Areias,Avenida Justiça e Paz,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/336132451
+Caçote,Ibura,Rua Feaca,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/336132519
+Caçote,Ipsep,Rua Sindicato dos Bancários,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/222795633
+Areias,Ibura,Avenida Recife,primary,1.2,Avenida principal,https://openstreetmap.org/way/722757400
+Areias,Imbiribeira,Avenida Tapajós,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/656001731
+Areias,Ipsep,Rua Pintor Antônio Albuquerque,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/314754308
+Areias,Estância,Rua Mearim,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/159256453
+Areias,Jardim São Paulo,Rua Senador Alberto Pasqualini,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/1359886532
+Areias,Jiquiá,Primeira Travessa Príncipe da Beira,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/511298461
+Ibura,Imbiribeira,Rua Frei Luís de Souza,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/161830501
+Ibura,Ipsep,Rua Moni Silva,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/161908208
+Imbiribeira,Ipsep,Rua Doutor Tavares Correia,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/162651563
+Imbiribeira,Jiquiá,Rua Rio Oceânico,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/967575761
+Estância,Jardim São Paulo,Rua Sargento Jaime Pantaleão,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/159256399
+Estância,Jiquiá,Rua João Pereti,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/143669318
+Estância,San Martin,Rua Barão de Buíque,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/143669301
+Jardim São Paulo,Jiquiá,Rua Guarulhos,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/166189764
+Jardim São Paulo,San Martin,Rua Ana Pires Lustosa,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/166189798
+Jardim São Paulo,Curado,Rua Professora Zênia Guerra,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/166189695
+Jiquiá,San Martin,Rua Manoel Lopes de Barros,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/159257489
+San Martin,Curado,Avenida General San Martin,primary,1.2,Avenida principal,https://openstreetmap.org/way/966570842
+San Martin,Torrões,Rua Eduardo de Andrade,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/114690721
+San Martin,Cordeiro,Rua Amália,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/198852048
+Curado,Cidade Universitária,Avenida Getúlio Vargas,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/1099651426
+Curado,Engenho do Meio,Rodovia Luiz Gonzaga,trunk,1.0,Via arterial / Rodovia urbana,https://openstreetmap.org/way/772524549
+Curado,Torrões,Avenida Engenheiro Abdias de Carvalho,trunk,1.0,Via arterial / Rodovia urbana,https://openstreetmap.org/way/755634296
+Curado,Várzea,Avenida Visconde de São Leopoldo,trunk,1.0,Via arterial / Rodovia urbana,https://openstreetmap.org/way/80453551
+Cidade Universitária,Engenho do Meio,Avenida Jornalista Aníbal Fernandes,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/245730591
+Cidade Universitária,Várzea,Avenida dos Reitores Joaquim Amazonas,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/317078453
+Cidade Universitária,Iputinga,Girador da Reitoria da UFPE,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/707023321
+Engenho do Meio,Torrões,Rua Antônio Borges Uchoa,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/199429423
+Engenho do Meio,Cordeiro,Rua Carneiro de Mariz,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/199428062
+Engenho do Meio,Iputinga,Rua Antônio Curado,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/186977578
+Torrões,Cordeiro,Rua Damasqueiro,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/377691618
+Caxangá,Várzea,Rua Engenho Poeta,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/204618705
+Caxangá,Iputinga,Rua Vicente Zirpoli,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/204618822
+Caxangá,Apipucos,Rua Pedro Ernesto,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/533129104
+Caxangá,Dois Irmãos,Rua Dona Inês Correa de Araújo,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/204618760
+Caxangá,Sítio dos Pintos,Avenida Caxangá,primary,1.2,Avenida principal,https://openstreetmap.org/way/533129106
+Várzea,Iputinga,Rua Diogo de Vasconcelos,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/203171868
+Arruda,Campo Grande,Rua do Machado,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/151814588
+Arruda,Peixinhos,Rua Zeferino Agra,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/142229973
+Arruda,Bomba do Hemetério,Rua Ramiz Galvão,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/166895884
+Arruda,Campina do Barreto,Rua Coronel Urbano Ribeiro de Sena,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/317313984
+Arruda,Mangabeira,Rua Raul Pompéia,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/166894082
+Arruda,Água Fria,Rua Bom Conselho,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/151813640
+Campo Grande,Peixinhos,Rua Oliveira Fonseca,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/174872346
+Peixinhos,Campina do Barreto,Avenida Poeta Vinicius de Morais,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/656122407
+Cordeiro,Torre,Rua Eurico de Souza Leão,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/966270822
+Cordeiro,Zumbi,Rua Francisco Vita,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/198825728
+Cordeiro,Santana,Rua Firmino de Barros,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/198825356
+Cordeiro,Iputinga,Rua Professor Evaldo Altino,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/377691612
+Cordeiro,Poço da Panela,Rua Alaíde,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/199889730
+Madalena,Torre,Rua José Osório,primary,1.2,Avenida principal,https://openstreetmap.org/way/772547583
+Madalena,Zumbi,Rua Araguatins,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/314754242
+Torre,Zumbi,Rua Professor Trajano de Mendonça,primary,1.2,Avenida principal,https://openstreetmap.org/way/129894857
+Torre,Santana,Rua José Bonifácio,primary,1.2,Avenida principal,https://openstreetmap.org/way/967665648
+Santana,Casa Forte,Rua Samuel Farias,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/198106073
+Santana,Parnamirim,Rua Amaraji,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/198106072
+Santana,Poço da Panela,Rua Astério Rufino Alves,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/394896909
+Alto José do Pinho,Casa Amarela,Rua Ori,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/475322300
+Alto José do Pinho,Morro da Conceição,Rua Maragogi,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/219486431
+Alto José do Pinho,Bomba do Hemetério,Rua Horácio Silva,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/313482020
+Alto José do Pinho,Mangabeira,Rua Severino Bernardino Pereira,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/219486899
+Alto José do Pinho,Alto Santa Teresinha,Rua do Rio,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/475322298
+Alto José do Pinho,Alto José Bonifácio,Rua Valeriano Lobo,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/219486551
+Alto do Mandu,Casa Amarela,Rua Eliete Aguiar,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/662043286
+Alto do Mandu,Monteiro,Rua Humaitá,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/377690552
+Alto do Mandu,Macaxeira,Rua Cianorte,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/776576585
+Alto do Mandu,Nova Descoberta,Rua Mandacaru,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/317261186
+Alto do Mandu,Apipucos,Rua Fernão Velho,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/808054987
+Casa Amarela,Casa Forte,Rua Padre Lemos,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/857404860
+Casa Amarela,Monteiro,Rua Sempre Viva,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/222816790
+Casa Amarela,Morro da Conceição,Rua Taquaratinga,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/199434688
+Casa Amarela,Parnamirim,Rua Dona Ana Xavier,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/145218258
+Casa Amarela,Poço da Panela,Rua Curupaiti,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/199685785
+Casa Amarela,Mangabeira,Rua Major Nereu Guerra,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/435898963
+Casa Amarela,Nova Descoberta,Rua Vasco da Gama,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/145218256
+Casa Amarela,Vasco da Gama,Rua Frederico Ozanan,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/222819845
+Casa Forte,Parnamirim,Rua Jerônimo de Albuquerque,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/197960452
+Casa Forte,Poço da Panela,Rua de Casa Forte,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/197960569
+Iputinga,Monteiro,Rua Doutor Virgínio Marquês,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/199674085
+Iputinga,Poço da Panela,Rua Doutor Virginio Marques,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/199663969
+Iputinga,Apipucos,Rua São Mateus,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/836834973
+Monteiro,Poço da Panela,Rua Muniz Galvão,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/377690559
+Monteiro,Apipucos,Rua das Levadas,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/377690558
+Morro da Conceição,Alto José Bonifácio,Rua do Dende,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/1088315864
+Morro da Conceição,Vasco da Gama,Rua Itabaiana,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/1088315865
+Beberibe,Linha do Tiro,Rua Taguatinga,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/317313994
+Beberibe,Porto da Madeira,Quinta Travessa Aníbal Benévolo,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/142618024
+Beberibe,Água Fria,Avenida Aníbal Benévolo,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/317313974
+Beberibe,Dois Unidos,Rua Uriel de Holanda,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/142643464
+Bomba do Hemetério,Mangabeira,Rua São Gabriel,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/377682940
+Bomba do Hemetério,Alto Santa Teresinha,Rua Bomba do Hemetério,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/142610163
+Bomba do Hemetério,Água Fria,Rua Julio Lima,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/377682897
+Cajueiro,Campina do Barreto,Rua Couto Soares,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/142635680
+Cajueiro,Fundão,Rua André Bezerra,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/142332907
+Cajueiro,Porto da Madeira,Rua Maria Ramos,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/142635677
+Campina do Barreto,Fundão,Rua Iguatu,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/166897918
+Campina do Barreto,Água Fria,Rua Constança,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/317313983
+Fundão,Porto da Madeira,Avenida Cidade de Monteiro,primary_link,1.2,Avenida principal,https://openstreetmap.org/way/905218475
+Fundão,Água Fria,Rua Doutor Eudes Costa,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/142610434
+Linha do Tiro,Alto Santa Teresinha,Rua Santa Mercedes,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/222819886
+Linha do Tiro,Água Fria,Rua Sodrelândia,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/324072132
+Linha do Tiro,Alto José Bonifácio,Rua Araquem,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/774651318
+Linha do Tiro,Brejo de Beberibe,Rua Rio Igarapé,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/222819876
+Linha do Tiro,Dois Unidos,Rua Rio Tinto,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/377687668
+Porto da Madeira,Água Fria,Rua Belo Horizonte,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/144181860
+Alto Santa Teresinha,Água Fria,Rua Andricora,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/650415140
+Alto Santa Teresinha,Alto José Bonifácio,Rua Professor José Amarino dos Reis,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/317314005
+Alto José Bonifácio,Vasco da Gama,Rua São Domingos Sávio,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/326426273
+Alto José Bonifácio,Brejo de Beberibe,Rua Gustavo Barrozo,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/326426272
+Córrego do Jenipapo,Macaxeira,Rua dos Coquinhos,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/243409581
+Córrego do Jenipapo,Nova Descoberta,Rua Popular,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/243409564
+Córrego do Jenipapo,Apipucos,Rua Erundina Negreiros de Araújo,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/317402249
+Córrego do Jenipapo,Dois Irmãos,Rua Francisco Campos,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/243740824
+Córrego do Jenipapo,Brejo da Guabiraba,Rua Três Morros,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/222819879
+Córrego do Jenipapo,Guabiraba,Avenida da Redenção,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/128677005
+Macaxeira,Nova Descoberta,Rua Ida Maria,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/222816832
+Macaxeira,Apipucos,Rua Maria Cândida,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/243741218
+Nova Descoberta,Vasco da Gama,Rua Alto da Brasileira,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/377690522
+Nova Descoberta,Brejo da Guabiraba,Rua Piraju,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/377690524
+Nova Descoberta,Brejo de Beberibe,Primeira Subida da Brasileira,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/656094018
+Vasco da Gama,Brejo de Beberibe,Rua Santa Maria Goretti,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/222819875
+Apipucos,Dois Irmãos,Rua Jorge Tasso Neto,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/203167206
+Dois Irmãos,Sítio dos Pintos,Rua Professor Cláudio Selva,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/466145232
+Dois Irmãos,Guabiraba,Estrada dos Pintos,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/249468019
+Sítio dos Pintos,Guabiraba,Rua Manuel de Medeiros,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/764063550
+Brejo da Guabiraba,Brejo de Beberibe,Rua Arca de Noe,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/776574491
+Brejo da Guabiraba,Passarinho,Avenida Vereador Otacílio Azevedo,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/317411942
+Brejo da Guabiraba,Guabiraba,Rua Santa Tereza,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/547104304
+Brejo de Beberibe,Dois Unidos,Rua Doutor Antônio da Rosa Borges,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/966805041
+Brejo de Beberibe,Passarinho,Rua Só Nós Dois,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/222822274
+Dois Unidos,Passarinho,Avenida Hildebrando de Vasconcelos,tertiary,1.8,Rua de ligação / Coletora local,https://openstreetmap.org/way/857404822
+Passarinho,Guabiraba,Rua Vargem linda,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/766881851
+Guabiraba,Pau-Ferro,Estrada da Mumbeca,secondary,1.5,Avenida secundária	,https://openstreetmap.org/way/1151055913
+Pau-Ferro,Aldeia,Rua Evaristo da Veiga,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/713731326
+Aldeia,Oitenta,Estrada Pau de Ferro,residential,2.0,Rua local / de bairro,https://openstreetmap.org/way/258791984
